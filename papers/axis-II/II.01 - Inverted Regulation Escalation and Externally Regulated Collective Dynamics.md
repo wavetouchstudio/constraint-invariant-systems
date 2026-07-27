@@ -16,603 +16,316 @@ This paper formalizes a recurrent interaction pattern: in some agents,
 non-engagement intensifies rather than extinguishes provocative
 behavior. The inversion occurs when behavioral stability depends on
 externally generated affective feedback rather than internally
-maintained inhibition. For such agents, silence functions as signal
+maintained inhibition—for such agents, silence functions as signal
 deprivation, producing destabilization and amplitude escalation until
 external constraint is imposed.
 
-The model is descriptive and bounded. It identifies a specific
+The model is descriptive and bounded: it identifies a specific
 regulatory architecture, defines its control dynamics, specifies
 falsifiable conditions, and distinguishes it from strategic or
-anxiety-driven escalation.
+anxiety-driven escalation. It then extends to collective dynamics where
+groups exhibiting this architecture destabilize under non-engagement,
+escalate collectively, and restabilize only when external attention or
+constraint is restored—escalation becomes self-reinforcing over time
+while internal moderation is suppressed and costs are externalized onto
+the environment.
 
-# **1. The Observed Pattern**
+The framework provides identification criteria for both individual and
+group-level signal dependency, coupling mechanisms that explain how
+individually regulated agents amplify into collectively regulated
+systems, and termination mechanics. It distinguishes this dynamic from
+rational coordination, instrumental escalation, or ideology-driven
+behavior through falsification conditions, scope boundaries, and a
+comparison table showing property differences between strategic groups
+and signal-dependent groups.
 
-“Stability That Requires an Audience”
+The model applies to early childhood development, certain
+dysregulation-linked clinical subtypes, active addiction states,
+status-anxious hierarchical environments, and online provocation
+ecosystems; it does not describe psychopathic strategic actors,
+instrumentally escalating activists, or fully internally regulated
+adversaries. The contribution is a structured account of its governing
+constraints, mechanisms, and failure conditions.
 
-Common experiential compressions include:
+## **1. The Observed Pattern**
 
-- “Ignoring them makes it worse.”
+Common experiential compressions describe the pattern: "Ignoring them
+makes it worse," "They keep pushing until someone stops them," "They
+escalate until checked."
 
-- “They keep pushing until someone stops them.”
-
-- “They escalate until checked.”
-
-Rather than evaluating these statements normatively, this paper treats
-them as empirical artifacts pointing to a control failure.
-
-The question is structural:
-
-Why does non-response sometimes amplify behavior instead of
+Rather than evaluating these normatively, this paper treats them as
+empirical artifacts pointing to a control failure. The question is
+structural: why does non-response sometimes amplify behavior instead of
 extinguishing it?
 
-# **2. Regulatory Architectures**
+## **2. Regulatory Architectures**
 
-“Stability That Requires an Audience”
+Two functional control structures are distinguished. Internally
+regulated agents have internal inhibition thresholds, self-termination
+of ineffective action, behavioral stability under low feedback, and
+tolerance for ambiguity and silence; non-response reduces their output.
 
-Two functional control structures are distinguished.
+Externally regulated agents show the opposite: behavioral stability
+depends on affective feedback, distress under neutral conditions,
+amplification when response signals disappear, and rapid modulation
+based on micro-reactions. For these agents, external affect functions as
+an active stabilizing input rather than a passive condition.
 
-## **2.1 Internally Regulated Agents**
-
-- Internal inhibition thresholds
-
-- Self-termination of ineffective action
-
-- Behavioral stability under low feedback
-
-- Tolerance of ambiguity and silence
-
-Non-response reduces behavioral output.
-
-## **2.2 Externally Regulated Agents**
-
-- Behavioral stability depends on affective feedback
-
-- Distress under neutral conditions
-
-- Amplification when response signals disappear
-
-- Rapid modulation based on micro-reactions
-
-For these agents, external affect functions as an active stabilizing
-input.
-
-# **3. Prospective Identification**
-
-“Stability That Requires an Audience”
+## **3. Prospective Identification**
 
 To avoid circular reasoning, regulatory architecture must be
-identifiable prior to escalation.
+identifiable prior to escalation using probabilistic pre-escalation
+indicators: frequent affect-checking, escalation in low-feedback
+environments, reduced coherence without audience presence, heightened
+reactivity to delayed response, and behavioral modulation tightly
+coupled to visible reaction.
 
-Probabilistic pre-escalation indicators include:
+Internally regulated agents remain stable under the same conditions—this
+distinction is what makes prospective identification possible rather
+than post-hoc rationalization.
 
-- Frequent affect-checking
+## **4. Inversion of the Extinction Assumption**
 
-- Escalation in low-feedback environments
+The standard model assumes provocation followed by no response leads to
+reinforcement removal and behavior decrease, which presumes internal
+regulation. The inverted function is different: provocation without
+response means signal loss, which triggers destabilization and
+escalation.
 
-- Reduced coherence without audience presence
+Silence removes the stabilizing control input; amplification becomes
+locally coherent when the agent cannot access external feedback. This
+inversion applies only to externally regulated agents—internally
+regulated ones follow the standard model regardless of engagement level.
 
-- Heightened reactivity to delayed response
+## **5. Minimal Formalization**
 
-- Behavioral modulation tightly coupled to visible reaction
+The core prediction uses three variables: S(t) as perceived affective
+feedback, T_min as minimum stabilizing signal amplitude, and A(t) as
+provocation amplitude. For externally regulated agents, if S(t) falls
+below T_min then dA/dt is positive (escalation), and if S(t) meets or
+exceeds T_min then dA/dt is non-positive (de-escalation).
 
-Internally regulated agents remain stable under the same conditions.
+Nonlinear forms including oscillation, plateau, and overshoot are
+permitted; monotonic growth is not assumed. The core prediction remains
+directional under signal deprivation.
 
-# **4. Inversion of the Extinction Assumption**
+## **6. Escalation Sequence**
 
-“Stability That Requires an Audience”
+Typical progression follows five stages: low-intensity probe, flat
+response, amplitude increase, boundary-forcing attempt, and external
+constraint insertion. No strategic intent is required—the process is
+reflexive under signal loss rather than planned.
 
-## **4.1 Standard Model**
+## **7. Distinguishing Other Mechanisms**
 
-Provocation → No Response → Reinforcement Removed → Behavior Decreases
+The model applies only to signal-deprivation escalation, not strategic
+boundary probing, instrumental activism, anxiety-driven
+spike-and-withdraw patterns, or psychopathic manipulation.
 
-This presumes internal regulation.
+Termination condition distinguishes classes: signal restoration leads to
+stabilization (external regulation case) while goal attainment leads to
+termination (strategic case). This distinction is what separates the
+model from other escalation theories.
 
-## **4.2 Inverted Function**
+## **8. Symmetric Cases**
 
-Provocation → No Response → Signal Loss\
-Signal Loss → Destabilization → Escalation
+Externally regulated agents interacting with other externally regulated
+agents produce rapid mutual escalation, positive feedback resonance, and
+cyclic amplification-collapse patterns; internally regulated
+interactions typically dampen.
 
-Silence removes the stabilizing control input.
+## **9. Development and Internalization**
 
-Amplification becomes locally coherent.
-
-# **5. Minimal Formalization**
-
-“Stability That Requires an Audience”
-
-Let:
-
-- S(t) = perceived affective feedback
-
-- T_min = minimum stabilizing signal amplitude
-
-- A(t) = provocation amplitude
-
-For externally regulated agents:
-
-If S(t) \< T_min → dA/dt \> 0\
-If S(t) ≥ T_min → dA/dt ≤ 0
-
-Escalation directionality under signal deprivation is the core
-prediction.
-
-Nonlinear forms (oscillation, plateau, overshoot) are permitted.\
-Monotonic growth is not assumed.
-
-# **6. Escalation Sequence**
-
-“Stability That Requires an Audience”
-
-Typical progression:
-
-1.  Low-intensity probe
-
-2.  Flat response
-
-3.  Amplitude increase
-
-4.  Boundary-forcing attempt
-
-5.  External constraint insertion
-
-No strategic intent is required.\
-The process is reflexive under signal loss.
-
-# **7. Distinguishing Other Mechanisms**
-
-“Stability That Requires an Audience”
-
-The model applies only to signal-deprivation escalation.
-
-It does not describe:
-
-- Strategic boundary probing
-
-- Instrumental activism
-
-- Anxiety-driven spike-and-withdraw patterns
-
-- Psychopathic manipulation
-
-Termination condition distinguishes classes:
-
-Signal restoration → stabilization (external regulation case)\
-Goal attainment → termination (strategic case)
-
-# **8. Symmetric Cases**
-
-“Stability That Requires an Audience”
-
-Externally regulated ↔︎ externally regulated interactions produce:
-
-- Rapid mutual escalation
-
-- Positive feedback resonance
-
-- Cyclic amplification-collapse
-
-Internally regulated ↔︎ internally regulated interactions typically
-dampen.
-
-# **9. Development and Internalization**
-
-“Stability That Requires an Audience”
-
-External regulation is not fixed.
-
-Constraint may function as:
-
-- Permanent substitute
-
-- Temporary scaffold
-
-- Context-bound stabilizer
-
-The model predicts stabilization under constraint, not developmental
+External regulation is not fixed: constraint may function as permanent
+substitute, temporary scaffold, or context-bound stabilizer. The model
+predicts stabilization under constraint rather than developmental
 outcomes.
 
-# **10. External Constraint**
+## **10. External Constraint**
 
-“Stability That Requires an Audience”
+Escalation ceases when sufficient external constraint is imposed through
+social, institutional, or physical means; the model specifies
+termination mechanics only, not which type of intervention works best.
 
-Escalation ceases when sufficient external constraint is imposed.
+## **11. Falsification Conditions**
 
-Constraint may be:
+The model fails if prospectively identified externally regulated agents
+de-escalate reliably under sustained non-engagement (months to years),
+escalation occurs absent signal deprivation, internally regulated agents
+exhibit the same escalation pattern under silence, external constraint
+fails to stabilize behavior, or predicted S(t), T_min, A(t)
+relationships do not hold. "Sustained" excludes transient probing.
 
-- Social
+## **12. Cross-Domain Validation (Compressed)**
 
-- Institutional
+The architecture appears in early childhood development, certain
+dysregulation-linked clinical subtypes, active addiction states,
+status-anxious hierarchical environments, and online provocation
+ecosystems; it does not reliably describe psychopathic strategic actors,
+instrumentally escalating activists, or fully internally regulated
+adversaries.
 
-- Physical
+## **13. Scope**
 
-The model specifies termination mechanics only.
+This model describes a control structure that applies only to
+signal-dependent escalation and makes no normative claims—it does not
+justify intervention types but provides a falsifiable account of a
+recurrent interaction failure.
 
-# **11. Falsification Conditions**
+## **Part II. Externally Regulated Collective Dynamics**
 
-“Stability That Requires an Audience”
-
-The model fails if:
-
-- Prospectively identified externally regulated agents de-escalate
-  reliably under sustained non-engagement
-
-- Escalation occurs absent signal deprivation
-
-- Internally regulated agents exhibit the same escalation pattern under
-  silence
-
-- External constraint fails to stabilize behavior
-
-- Predicted S(t), T_min, A(t) relationships do not hold
-
-“Sustained” excludes transient probing.
-
-# **12. Cross-Domain Validation (Compressed)**
-
-“Stability That Requires an Audience”
-
-The architecture appears in:
-
-- Early childhood development
-
-- Certain dysregulation-linked clinical subtypes
-
-- Active addiction states
-
-- Status-anxious hierarchical environments
-
-- Online provocation ecosystems
-
-It does not reliably describe:
-
-- Psychopathic strategic actors
-
-- Instrumentally escalating activists
-
-- Fully internally regulated adversaries
-
-The inclusion/exclusion pattern supports functional specificity rather
-than stereotype re-description.
-
-# **13. Scope**
-
-“Stability That Requires an Audience”
-
-This model:
-
-- Describes a control structure
-
-- Applies only to signal-dependent escalation
-
-- Makes no normative claims
-
-- Does not justify intervention types
-
-It provides a falsifiable account of a recurrent interaction failure.
-
-# **14. Summary**
-
-“Stability That Requires an Audience”
-
-When behavioral stability depends on external affective feedback,
-silence functions as signal deprivation. Signal deprivation produces
-destabilization and amplitude escalation until external constraint
-restores stability.
-
-The inverted regulation escalation function explains a specific, bounded
-subclass of escalation phenomena through control-theoretic dynamics
-rather than moral narrative.
-
-# Part II. Externally Regulated Collective Dynamics
-
-“Stability That Requires an Audience”
-
-**Externally Regulated Groups and Recursive Escalation Systems\**
-**Signal-Dependent Collective Stabilization and Self-Protective Feedback
+**Externally Regulated Groups and Recursive Escalation Systems:
+Signal-Dependent Collective Stabilization and Self-Protective Feedback
 Loops**
 
-## Abstract Context
+## **Abstract Context**
 
 This paper formalizes a class of group dynamics in which collective
-stability depends on **externally generated signaling** rather than
-internal self-regulation. Groups exhibiting this architecture
-destabilize under non-engagement, escalate collectively, and restabilize
-only when external attention or constraint is restored. Escalation
-becomes self-reinforcing over time; internal moderation is suppressed,
-and costs are externalized onto the environment.
+stability depends on externally generated signaling rather than internal
+self-regulation. Groups exhibiting this architecture destabilize under
+non-engagement, escalate collectively, and restabilize only when
+external attention or constraint is restored—escalation becomes
+self-reinforcing over time while internal moderation is suppressed and
+costs are externalized onto the environment.
 
-The analysis is strictly descriptive—structural, not moral. It provides
+The analysis is strictly descriptive: structural, not moral. It provides
 identification criteria, mechanisms, scaling limits, interaction
 effects, and falsification conditions to distinguish this dynamic from
 rational coordination, instrumental escalation, or ideology-driven
 behavior.
 
-# **1. Scope, Risk, and Interpretive Boundaries**
+## **1. Scope, Risk, and Interpretive Boundaries**
 
-“Stability That Requires an Audience”
+The framework analyzes regulatory architecture rather than claim
+validity or grievance legitimacy; it cannot adjudicate justice,
+morality, or political correctness.
 
-- The framework analyzes regulatory architecture, not claim validity or
-  grievance legitimacy.
+Appropriate uses include identifying when engagement strategies are
+structurally unlikely to stabilize a conflict, explaining persistence of
+disputes despite good-faith negotiation, distinguishing instrumental
+escalation from signal-dependent escalation, and designing empirical
+tests of group-level regulation architectures. Misuse as
+delegitimization is a category error, not a valid application.
 
-- It cannot adjudicate justice, morality, or political correctness.
-
-- It may be misapplied as a delegitimization tool; such misuse is a
-  category error.
-
-Appropriate uses include:
-
-- Identifying when engagement strategies are structurally unlikely to
-  stabilize a conflict.
-
-- Explaining persistence of disputes despite good-faith negotiation.
-
-- Distinguishing instrumental escalation from signal-dependent
-  escalation.
-
-- Designing empirical tests of group-level regulation architectures.
-
-# **2. Falsification Criteria**
-
-“Stability That Requires an Audience”
+## **2. Falsification Criteria**
 
 The model is falsified if groups prospectively identified as
-signal-dependent:
+signal-dependent stabilize under sustained non-engagement (months to
+years), maintain behavior via internal moderation across multiple
+escalation cycles, de-escalate after partial acknowledgment or
+concession rather than signal restoration, convert imposed costs into
+durable behavior change, or collapse solely due to leadership change
+without corresponding incentive changes.
 
-- Stabilize under sustained non-engagement (months to years).
+## **3. Prospective Identification**
 
-- Maintain behavior via internal moderation across multiple escalation
-  cycles.
+Groups can be flagged before major escalation using indicators:
+heightened sensitivity to attention metrics (media, engagement), framing
+escalation as necessary for visibility or existence independent of
+outcomes, stabilization after response regardless of substantive
+resolution, and intensity rising when acknowledgment is delayed or
+neutral.
 
-- De-escalate after partial acknowledgment or concession rather than
-  signal restoration.
+Internal regulation weakness indicators include absence of durable
+internal damping mechanisms, moderation efforts destabilizing rather
+than stabilizing, de-escalation framed as existential threat, and
+escalation preferentially reinforced over restraint.
 
-- Convert imposed costs (legal, reputational, social) into durable
-  behavior change.
+## **4. From Individual to Group Regulation: Coupling Mechanisms**
 
-- Collapse solely due to leadership change without corresponding
-  incentive/environment changes.
+Externally regulated individuals do not average out in groups; instead,
+coupling occurs as members amplify partial regulatory signals and
+synchronize affective states.
 
-# **3. Prospective Identification**
+Calm behavior reduces perceived internal signal and is destabilizing
+rather than stabilizing. Group stabilization emerges through collective
+amplification rather than deliberation.
 
-“Stability That Requires an Audience”
+## **5. Recursive Escalation Loop**
 
-Groups can be flagged **before major escalation** using indicators:
+The core feedback cycle runs: signal deprivation (silence or neutrality)
+produces group destabilization, which triggers collective escalation
+that draws external reaction and attention, leading to temporary
+stabilization that reinforces escalation—stabilization depends on signal
+restoration rather than goal achievement.
 
-## **3.1 Signal Dependency Indicators**
+## **6. Why Escalation Stabilizes**
 
-Heightened sensitivity to attention metrics (media, engagement).
+Shared intensity reduces internal variance; alignment substitutes for
+actual resolution while coherence is experienced via synchrony rather
+than agreement, and mediated environments suffice without physical
+co-presence.
 
-Framing escalation as necessary for visibility or existence, independent
-of outcomes.
+## **7. Identity Hardening Mechanisms**
 
-Stabilization occurs after response regardless of substantive
-resolution.
+Selection effects occur when members with internal regulation tend to
+exit while exit is constrained by sunk costs, ties, and reputational
+lock-in—prediction: low exit barriers lead to faster hardening.
 
-Intensity rises when acknowledgment is delayed or neutral.
+Social enforcement includes de-escalation framed as betrayal, moderators
+losing status or being expelled, and internal moderation punished.
+Sincere identity fusion binds group identity to escalation itself with
+calm phases experienced as existential loss.
 
-## **3.2 Internal Regulation Weakness Indicators**
+## **8. Leadership Dynamics**
 
-- Absence of durable internal damping mechanisms.
+Leaders emerge who sustain escalation coherence; internally regulated
+leaders can persist if they generate signal without destabilization, and
+leadership turnover affects escalation rhythm more than ideology.
 
-- Moderation efforts destabilize rather than stabilize.
+## **9. Formation, Scale, and Structure**
 
-- De-escalation framed as existential threat.
+Signal-dependent individuals cohere in attention-rich environments;
+mixed groups may drift toward external regulation if escalation is
+rewarded. Small groups (5–20) show rapid resonance but are fragile,
+medium groups (20–500) sustain durable escalation cycles, and large
+groups (10,000+) exhibit bureaucratic damping with factional competition
+and partial internal regulation.
 
-- Escalation preferentially reinforced over restraint.
+## **10. Hybrid and Transitional Cases**
 
-# **4. From Individual to Group Regulation: Coupling Mechanisms**
+Externally regulated leadership can induce group-level dynamics even
+with internally regulated members; groups may be externally regulated in
+public signaling while internally regulated operationally, and mode
+transitions are possible but inherently unstable.
 
-“Stability That Requires an Audience”
+## **11. Inter-Group Dynamics**
 
-Externally regulated individuals do not average out in groups.
+Mutual escalation between two signal-dependent groups can synchronize;
+each supplies regulatory signal for the other while external constraint
+must apply to both to terminate escalation—apparent conflict may act as
+quasi-symbiosis for stability.
 
-Coupling occurs as members amplify partial regulatory signals,
-synchronizing affective states.
-
-Calm behavior reduces perceived internal signal and is destabilizing.
-
-Group stabilization emerges through collective amplification, not
-deliberation.
-
-# **5. Recursive Escalation Loop**
-
-“Stability That Requires an Audience”
-
-Core feedback cycle:
-
-Signal Deprivation (Silence / Neutrality)
-
-↓
-
-Group Destabilization
-
-↓
-
-Collective Escalation
-
-↓
-
-External Reaction / Attention
-
-↓
-
-Temporary Stabilization
-
-↓
-
-Escalation Reinforced
-
-↺
-
-Stabilization depends on signal restoration, not goal achievement.
-
-# **6. Why Escalation Stabilizes**
-
-“Stability That Requires an Audience”
-
-## **6.1 Partial Regulation via Resonance**
-
-Shared intensity reduces internal variance.
-
-Alignment substitutes for actual resolution.
-
-Coherence experienced via synchrony rather than agreement.
-
-Mediated environments suffice; physical co-presence is not required.
-
-## **6.2 Limits on Runaway Amplification**
-
-- Environmental response thresholds.
-
-- Resource and attention constraints.
-
-- External constraint imposition.
-
-- Signal saturation.
-
-# **7. Identity Hardening Mechanisms**
-
-“Stability That Requires an Audience”
-
-## **7.1 Selection Effects**
-
-- Members with internal regulation tend to exit.
-
-- Exit constrained by sunk costs, ties, reputational lock-in.
-
-- Prediction: low exit barriers → faster hardening.
-
-## **7.2 Social Enforcement**
-
-6.  De-escalation framed as betrayal.
-
-7.  Moderators lose status or are expelled.
-
-8.  Internal moderation punished.
-
-## **7.3 Sincere Identity Fusion**
-
-- Group identity tied to escalation itself.
-
-- Calm phases experienced as existential loss.
-
-## **7.4 Leadership Dynamics**
-
-- Leaders emerge who sustain escalation coherence.
-
-- Internally regulated leaders can persist if they generate signal
-  without destabilization.
-
-- Leadership turnover affects escalation rhythm more than ideology.
-
-# **8. Formation, Scale, and Structure**
-
-“Stability That Requires an Audience”
-
-- Signal-dependent individuals cohere in attention-rich environments.
-
-- Mixed groups may drift toward external regulation if escalation is
-  rewarded.
-
-## **Scaling Effects**
-
-Small groups (5–20): rapid resonance, fragile.
-
-Medium (20–500): durable escalation cycles.
-
-Large (10,000+): bureaucratic damping, factional competition, partial
-internal regulation.
-
-# **9. Hybrid and Transitional Cases**
-
-“Stability That Requires an Audience”
-
-- Externally regulated leadership can induce group-level dynamics even
-  with internally regulated members.
-
-- Groups may be externally regulated in public signaling, internally
-  regulated operationally.
-
-- Mode transitions possible but inherently unstable.
-
-# **10. Inter-Group Dynamics**
-
-“Stability That Requires an Audience”
-
-- Mutual escalation between two signal-dependent groups can synchronize.
-
-- Each supplies regulatory signal for the other.
-
-- External constraint must apply to both to terminate escalation.
-
-- Apparent conflict may act as quasi-symbiosis for stability.
-
-# **11. Institutional Interaction**
-
-“Stability That Requires an Audience”
+## **12. Institutional Interaction**
 
 Institutional response becomes part of the regulatory loop if it
-stabilizes behavior without altering internal regulation.
+stabilizes behavior without altering internal regulation; the
+distinguishing feature is whether intervention changes internal
+regulation architecture or merely restores signal.
 
-Distinguishing feature: does intervention change internal regulation
-architecture, or merely restore signal?
+## **13. Distinction from Strategic Coordination**
 
-# **12. Distinction from Strategic Coordination**
+The table below shows property differences between strategic groups and
+signal-dependent groups: escalation role is instrumental versus
+stabilizing, de-escalation occurs when goals are met rather than only
+with signal restoration, internal moderation is functional versus
+destabilizing, cost sensitivity is high versus low, and identity is
+goal-linked versus escalation-linked.
 
-“Stability That Requires an Audience”
+## **14. Temporal Dynamics and Collapse**
 
-|                     |                      |                              |
-|:-------------------:|:--------------------:|:----------------------------:|
-|    **Property**     | **Strategic Groups** | **Signal-Dependent Groups**  |
-|   Escalation role   |     Instrumental     |         Stabilizing          |
-|    De-escalation    |    When goals met    | Only with signal restoration |
-| Internal moderation |      Functional      |        Destabilizing         |
-|  Cost sensitivity   |         High         |             Low              |
-|      Identity       |     Goal-linked      |      Escalation-linked       |
+Growth occurs under attention-rich conditions; plateaus form under
+signal saturation; fragmentation follows prolonged constraint; collapse
+happens when internal regulation returns or signal access is removed;
+persuasion alone rarely alters trajectory.
 
-# **13. Temporal Dynamics and Collapse**
+## **15. Positive and Neutral Instances**
 
-“Stability That Requires an Audience”
-
-- Growth under attention-rich conditions.
-
-- Plateaus under signal saturation.
-
-- Fragmentation under prolonged constraint.
-
-- Collapse when internal regulation returns or signal access is removed.
-
-- Persuasion alone rarely alters trajectory.
-
-# **14. Positive and Neutral Instances**
-
-“Stability That Requires an Audience”
-
-- Therapeutic support groups: synchronized intensity stabilizes
-  participants.
-
-- Artistic collectives: escalation drives innovation.
-
-- Emergency response teams: shared intensity improves coordination.
-
-**Outcome depends on what escalation is coupled to, not the structural
-architecture itself.**
-
-# **15. Summary**
-
-“Stability That Requires an Audience”
-
-Externally regulated, signal-dependent groups:
-
-Substitute escalation for internal moderation.
-
-Exhibit recursive, self-protective feedback loops.
-
-Intensify under non-engagement.
-
-Resist conventional moderation strategies.
-
-**Value:** predictive, structural understanding—not moral judgment
+Therapeutic support groups show synchronized intensity stabilizing
+participants, artistic collectives demonstrate escalation driving
+innovation, and emergency response teams benefit from shared intensity
+improving coordination—outcome depends on what escalation is coupled to
+rather than the structural architecture itself.
 
 # Conclusion
 
@@ -623,7 +336,4 @@ is regulated primarily by external affective signals rather than
 internally enforced constraints. The contribution of Inverted Regulation
 Escalation and Externally Regulated Collective Dynamics is therefore a
 structured account of its governing constraints, mechanisms, and failure
-conditions. Its claims remain bounded by the evidence and
-counterexamples specified in the paper, and its practical value depends
-on whether the proposed relationships improve explanation, prediction,
-or correction in the relevant domain.
+conditions.

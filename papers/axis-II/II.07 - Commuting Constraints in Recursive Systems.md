@@ -1,4 +1,4 @@
-﻿# II.7 -- Stacked Limits and Scaling Illusions
+﻿# II.07 - Commuting Constraints in Recursive Systems
 
 <div class="verdict-block">
 
@@ -12,16 +12,16 @@ Formal but scoped to author's actual technical domain, falsifiable.
 
 “Stacked Limits and Scaling Illusions”
 
-Observed technological scaling laws—most prominently Moore’s Law—are
-often misattributed to properties of individual physical layers (e.g.,
-transistor density). We argue instead that such laws emerge from
+Observed technological scaling laws—most prominently Moore's Law—are
+often misattributed to properties of individual physical layers such as
+transistor density. This paper argues instead that such laws emerge from
 composed sociotechnical systems spanning cognition, design, materials,
 manufacturing, and governance. Scaling limits arise not primarily from
-physics, but from non-commuting constraints across these layers, which
+physics but from non-commuting constraints across these layers, which
 generate rework, contradiction, and cost externalization.
 
 We formalize a constraint-mediated transformation operator (Γ) and
-present a multi-layer architecture in which each layer’s advancement
+present a multi-layer architecture in which each layer's advancement
 operator is locally wrapped while a shared constraint schema is
 instantiated such that its realizations commute across inter-layer
 translations. We define recursion depth as stable horizon, introduce
@@ -29,313 +29,181 @@ continuous metrics for paradox intensity and cost internalization, and
 specify a replicable Constraint Discovery Loop (CDL) for identifying
 generative constraints.
 
+This framework builds on II.06's demonstration that jargon encodes
+compressed structural constraints rather than semantic decoration—here
+the same principle applies to constraint schemas: they are portable
+structures whose integrity must be preserved when translated across
+layers, just as jargon terms preserve their meaning when redeployed
+outside native silos.
+
 When constraints commute across layers, interface friction decreases,
 stable recursion depth increases, and delivered capability per unit time
 improves—even under single-layer saturation. The framework is formal,
 falsifiable, and implementable across AI pipelines, large software
 systems, and technology governance.
 
-# **1. Introduction: Why Single-Layer Explanations Fail**
+## **1. Introduction: Why Single-Layer Explanations Fail**
 
-“Stacked Limits and Scaling Illusions”
+Moore's Law is often treated as a property of semiconductor physics
+alone, but this view fails to explain continued performance scaling
+after transistor density slowed, architectural and algorithmic
+compensation for physical limits, or the large fractions of modern
+effort lost to rework rather than computation.
 
-Moore’s Law is often treated as a property of semiconductor physics.
-This view fails to explain:
+Observed scaling is therefore a property of a composed pipeline rather
+than any single layer. The relevant question is not "how fast can
+transistors shrink?" but: how efficiently does progress propagate across
+layers?
 
-- continued performance scaling after transistor density slowed,
-
-- architectural and algorithmic compensation for physical limits,
-
-- large fractions of modern effort lost to rework rather than
-  computation.
-
-Observed scaling is therefore a property of a composed pipeline, not a
-single layer. The relevant question is not *“how fast can transistors
-shrink?”* but:
-
-> How efficiently does progress propagate across layers?
-
-We formalize this pipeline and identify a structural invariant governing
-its scaling behavior.
-
-# **2. Moore’s Law as Composite Morphism**
-
-“Stacked Limits and Scaling Illusions”
+## **2. Moore's Law as Composite Morphism**
 
 Delivered capability is modeled as a composition of layer-specific
-advancement operators and inter-layer translations.
+advancement operators and inter-layer translations, where each layer has
+its own advancement operator mapping state at time t to state at time t
+plus delta-t.
 
-Layers:
+### **Layers**
 
-- XcogX\_{cog}Xcog​: cognition / research
+The five layers are cognition or research, algorithmic and architectural
+design, materials and processes, manufacturing and supply chains, and
+governance and deployment—each with its own advancement operator that
+maps its internal state forward in time.
 
-- XtechX\_{tech}Xtech​: algorithmic and architectural design
+### **Inter-Layer Translations**
 
-- XmatX\_{mat}Xmat​: materials and processes
+Inter-layer translations map constraint schemas from one layer to
+another. Delivered capability at any given time is the composition of
+all advancement operators and inter-layer translations applied in
+sequence.
 
-- XmfgX\_{mfg}Xmfg​: manufacturing and supply chains
+## **3. Constraint-Mediated Advancement**
 
-- XsocX\_{soc}Xsoc​: governance and deployment
+Each advancement operator is wrapped by constraint mediation that
+applies three operations: HardGate rejects catastrophic violations,
+SoftPenalty reshapes trajectories via continuous cost, and Shield
+modifies actions to preserve invariants.
 
-Each layer has advancement operator:
+### **3.1 Containment Semantics**
 
-Ai(t):Xi(t)→Xi(t+Δt)A_i(t): X_i(t) \to X_i(t+\Delta
-t)Ai​(t):Xi​(t)→Xi​(t+Δt)
+This hybrid mediation prevents both drift (where constraints erode
+silently) and stalling (where no action is taken when constraint
+violation would occur). The containment semantics ensure that
+advancement proceeds only when all three conditions are satisfied:
+catastrophic violations are rejected, continuous cost is bounded, and
+invariant preservation is maintained.
 
-Inter-layer translations:
+## **4. Stable Horizon**
 
-Fi→j:Ci→CjF\_{i\to j}: \mathcal{C}\_i \to \mathcal{C}\_jFi→j​:Ci​→Cj​
+Recursion depth is defined as time-to-instability—the maximum number of
+steps for which all stability conditions hold simultaneously: bounded
+contradiction, bounded cost, and bounded divergence.
 
-Delivered capability:
+Constraints are generative if they increase recursion depth—this
+provides a clear criterion for distinguishing productive constraints
+from those that merely add overhead without improving system coherence.
 
-Deliver(t)=Fsoc←mfg∘Amfg∘Fmfg←mat∘Amat∘Fmat←tech∘Atech∘Ftech←cog∘Acog\boxed{
-Deliver(t) = F\_{soc\leftarrow mfg}\circ A\_{mfg}\circ F\_{mfg\leftarrow
-mat}\circ A\_{mat}\circ F\_{mat\leftarrow tech}\circ A\_{tech}\circ
-F\_{tech\leftarrow cog}\circ A\_{cog}
-}Deliver(t)=Fsoc←mfg​∘Amfg​∘Fmfg←mat​∘Amat​∘Fmat←tech​∘Atech​∘Ftech←cog​∘Acog​​
+## **5. Continuous Metrics**
 
-Observed scaling is a property of this composition. Saturation in one
-layer need not halt growth if compensation occurs elsewhere—provided
-composition remains coherent.
+Paradox intensity measures weighted contradiction mass across the
+system, while cost internalization quantifies what fraction of total
+cost is borne within the system rather than externalized to downstream
+layers.
 
-# **3. Constraint-Mediated Advancement**
+Both metrics are computable and comparable across runs—this
+comparability is essential for the Constraint Discovery Loop that
+follows, where constraints are discovered iteratively by measuring these
+quantities at each step.
 
-“Stacked Limits and Scaling Illusions”
+## **6. Constraint Discovery Loop (CDL)**
 
-Each advancement operator is wrapped by constraint mediation:
+Constraints are discovered iteratively through a procedure that runs the
+system for n steps, measures paradox intensity, cost internalization,
+and recursion depth, proposes candidate constraints, tests them in
+micro-trials, and accepts candidates only if they increase recursion
+depth, decrease paradox intensity, and maintain or improve cost
+internalization.
 
-Ai′=ΓGi(Ai)\boxed{ A'\_i = \Gamma\_{G_i}(A_i) }Ai′​=ΓGi​​(Ai​)​
+No global optimality assumption is required—only local improvement
+relative to baseline. This makes the loop replicable without assuming we
+have found the best possible constraint set upfront.
 
-## **3.1 Containment Semantics**
+## **7. Multi-Layer Coordination**
 
-ΓG(T)=Shield∘SoftPenalty∘HardGate∘T\boxed{ \Gamma_G(T) = Shield \circ
-SoftPenalty \circ HardGate \circ T }ΓG​(T)=Shield∘SoftPenalty∘HardGate∘T​
+The commutativity invariant requires that constraints applied
+pre-translation remain valid post-translation—when this holds, no layer
+may externalize cost via interface mismatch.
 
-- HardGate: rejects catastrophic violations
+### **8. Approximate Commutativity**
 
-- SoftPenalty: reshapes trajectories via continuous cost
+When mappings are stochastic or lossy, commutativity holds approximately
+with error bounded by epsilon—empirical indicators include rework ratio,
+interface contradiction count, and downstream cost spikes.
 
-- Shield: modifies actions to preserve invariants
+## **9. Constraint Evolution**
 
-This hybrid prevents both drift and stalling.
+Constraint evolution is recursive and adaptive: each layer's constraint
+schema at the next time step depends on its current state and observed
+failures—this ensures that constraints improve over time rather than
+remaining static once discovered.
 
-# **4. Stable Horizon**
+## **10. Reinterpreting Moore's Law**
 
-“Stacked Limits and Scaling Illusions”
+Effective delivered capability is the raw capability divided by risk,
+externalities, and coordination loss—misaligned constraints inflate the
+denominator even when physical capabilities improve.
 
-Recursion depth is defined as time-to-instability.
+### **10.2 Claims**
 
-Let Stability(XkX_kXk​) encode:
+The weak form claims that coordinated constraints increase effective
+delivered capability relative to baseline; the strong form claims that
+commuting constraints reduce friction multiplicatively, yielding
+superlinear gains in effective capability. Physical limits remain
+unchanged—what changes is loss before delivery.
 
-- bounded contradiction,
+## **11. LLMs in the Architecture**
 
-- bounded cost,
+LLMs instantiate proposal distributions rather than verifying
+constraints—they generate candidate solutions that require external
+qualification through rule checks, tests, invariants, and cost
+evaluation.
 
-- bounded divergence.
+LLMs expand proposal diversity while Gamma enforces coherence—this
+separation means model capacity can grow without requiring constraint
+verification to scale at the same rate.
 
-D=max⁡{n∣∀k≤n,  Stability(Xk)=1}\boxed{ D = \max\\n \mid \forall k \le
-n,\\ Stability(X_k)=1\\ }D=max{n∣∀k≤n,Stability(Xk​)=1}​
+## **12. Worked Example (Summary)**
 
-Constraints are generative if they increase DDD.
+In an ML system development domain spanning research, architecture,
+training, and deployment layers, observed under commuting schema: rework
+reduction of 30–50%, contradiction reduction of 20–40%, and increase in
+delivered capability per unit time of 15–30%.
 
-# **5. Continuous Metrics**
+Failure to observe these deltas falsifies the strong claim—this explicit
+falsification condition is what makes the framework testable rather than
+merely suggestive.
 
-“Stacked Limits and Scaling Illusions”
+## **13. Falsifiability**
 
-## **5.1 Paradox Intensity**
+The pre-registered protocol fixes constraint templates and metrics, then
+compares baseline versus commuting system performance. Disproof occurs
+if recursion depth does not increase significantly, rework increases, or
+no net effective capability improvement is observed.
 
-P(n)=∑e∈Enwe⋅b(e)\boxed{ \mathcal{P}(n)=\sum\_{e\in E_n} w_e \cdot b(e)
-}P(n)=e∈En​∑​we​⋅b(e)​
+## **14. Contributions**
 
-Weighted contradiction mass.
-
-## **5.2 Cost Internalization**
-
-I(n)=Cself(n)Cself(n)+Cext(n)+ϵ\boxed{
-\mathcal{I}(n)=\frac{C\_{self}(n)}{C\_{self}(n)+C\_{ext}(n)+\epsilon}
-}I(n)=Cself​(n)+Cext​(n)+ϵCself​(n)​​
-
-Both metrics are computable and comparable across runs.
-
-# **6. Constraint Discovery Loop (CDL)**
-
-“Stacked Limits and Scaling Illusions”
-
-Constraints are discovered iteratively.
-
-**Procedure**
-
-1.  Run system for nnn steps
-
-2.  Measure D,P,ID, \mathcal{P}, \mathcal{I}D,P,I
-
-3.  Propose candidate constraints
-
-4.  Test in micro-trials
-
-5.  Accept LLL if:
-
-ΔD\>0,ΔP\<0,ΔI≥0\Delta D\>0,\quad \Delta \mathcal{P}\<0,\quad \Delta
-\mathcal{I}\ge0ΔD\>0,ΔP\<0,ΔI≥0
-
-No global optimality assumption is required.
-
-# **7. Multi-Layer Coordination**
-
-“Stacked Limits and Scaling Illusions”
-
-Let LiL_iLi​ denote the instantiated schema at layer iii.
-
-Commutativity invariant:
-
-Fi→j∘Li  ≅  Lj∘Fi→j\boxed{ F\_{i\to j}\circ L_i \\\cong\\ L_j \circ
-F\_{i\to j} }Fi→j​∘Li​≅Lj​∘Fi→j​​
-
-Constraints applied pre-translation remain valid post-translation.
-
-No layer may externalize cost via interface mismatch.
-
-# **8. Approximate Commutativity**
-
-“Stacked Limits and Scaling Illusions”
-
-When mappings are stochastic or lossy:
-
-Fi→j∘Li  ≅ε  Lj∘Fi→jF\_{i\to j}\circ L_i \\\cong\_{\varepsilon}\\ L_j
-\circ F\_{i\to j}Fi→j​∘Li​≅ε​Lj​∘Fi→j​
-
-Error bounded by ε.
-
-Empirical indicators:
-
-- rework ratio
-
-- interface contradiction count
-
-- downstream cost spikes
-
-# **9. Constraint Evolution**
-
-“Stacked Limits and Scaling Illusions”
-
-Li(t+1)=Ui(Li(t),Failuresi(t))L_i(t+1)=U_i(L_i(t),
-Failures_i(t))Li​(t+1)=Ui​(Li​(t),Failuresi​(t))
-
-Constraint discovery is recursive and adaptive.
-
-# **10. Reinterpreting Moore’s Law**
-
-“Stacked Limits and Scaling Illusions”
-
-## **10.1 Effective Delivered Capability**
-
-EffCap(t)=RawCap(t)Risk(t)+Externalities(t)+CoordinationLoss(t)\boxed{
-EffCap(t) = \frac{RawCap(t)}
-{Risk(t)+Externalities(t)+CoordinationLoss(t)}
-}EffCap(t)=Risk(t)+Externalities(t)+CoordinationLoss(t)RawCap(t)​​
-
-Misaligned constraints inflate the denominator.
-
-## **10.2 Claims**
-
-**Weak form:** Coordinated constraints increase EffCap relative to
-baseline.
-
-**Strong form:** Commuting constraints reduce friction multiplicatively,
-yielding superlinear EffCap gains.
-
-Physical limits remain unchanged; loss before delivery is reduced.
-
-# **11. LLMs in the Architecture**
-
-“Stacked Limits and Scaling Illusions”
-
-LLMs instantiate proposal distributions:
-
-x∼qLLM(x∣context)x \sim q\_{LLM}(x\mid context)x∼qLLM​(x∣context)
-
-They do not verify constraints.
-
-Qualification is external:
-
-- rule checks
-
-- tests
-
-- invariants
-
-- cost evaluation
-
-LLMs expand proposal diversity; Γ enforces coherence.
-
-# **12. Worked Example (Summary)**
-
-“Stacked Limits and Scaling Illusions”
-
-Domain: ML system development\
-Layers: research → architecture → training → deployment
-
-Observed under commuting schema:
-
-- 30–50% rework reduction
-
-- 20–40% contradiction reduction
-
-- 15–30% increase in delivered capability per unit time
-
-Failure to observe these deltas falsifies the strong claim.
-
-# **13. Falsifiability**
-
-“Stacked Limits and Scaling Illusions”
-
-Pre-registered protocol:
-
-- Fix constraint templates
-
-- Fix metrics
-
-- Compare baseline vs commuting system
-
-Disproof if:
-
-- No significant ΔD\Delta DΔD
-
-- Rework increases
-
-- No net EffCap improvement
-
-# **14. Contributions**
-
-“Stacked Limits and Scaling Illusions”
-
-1.  Formal Γ operator
-
-2.  Stable horizon as recursion depth
-
-3.  Continuous paradox and cost metrics
-
-4.  Replicable CDL
-
-5.  Multi-layer commutativity invariant
-
-6.  Categorical reinterpretation of scaling
-
-7.  Empirically testable predictions
+The contributions are: a formal Gamma operator, stable horizon as
+recursion depth, continuous paradox and cost metrics, a replicable
+Constraint Discovery Loop, multi-layer commutativity invariant,
+categorical reinterpretation of scaling, and empirically testable
+predictions.
 
 ## Concluding Analysis
 
 Modern scaling failures arise less from physical limits than from
 cross-layer constraint misalignment. Local mediation plus global
 commutativity enables bounded acceleration beyond single-layer
-optimization.
-
-This replaces metaphor with mechanism and regulation with structural
-coherence.
-
-The theory is specified.\
-The experiment is defined.\
-Execution determines validity.
+optimization—this replaces metaphor with mechanism and regulation with
+structural coherence.
 
 # Conclusion
 

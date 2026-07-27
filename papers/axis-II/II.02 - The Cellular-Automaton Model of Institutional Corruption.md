@@ -17,298 +17,142 @@ distributed, rule-compliant systems rather than conspiratorial intent or
 individual malfeasance. Locally reasonable actions—such as anomaly
 flagging, scrutiny escalation, and efficiency optimization—interact
 iteratively across institutional boundaries to produce cascading harm
-that no single actor controls. The cellular-automaton framing explains
-why compliance regimes and ethics audits systematically fail to detect
-these failures and why harm persists despite reform attempts. Real-world
-manifestations include welfare-to-justice pipelines, identity distortion
-cascades, and bureaucratic lock-in. The paper proposes structural
-interventions—decay functions, contradiction-safe channels, and
-pattern-level correction mechanisms—to disrupt the attractor and restore
-system integrity.
+that no single actor controls.
+
+The cellular-automaton framing explains why compliance regimes and
+ethics audits systematically fail to detect these failures and why harm
+persists despite reform attempts. Real-world manifestations include
+welfare-to-justice pipelines, identity distortion cascades, and
+bureaucratic lock-in; the paper proposes structural interventions—decay
+functions on negative institutional memory, contradiction-safe channels
+preventing premature closure, and pattern-level correction mechanisms—to
+disrupt the attractor and restore system integrity.
 
 ## **Emergent Harm Under Faithful Rule Application**
 
-# **1. Positioning**
-
-“Damage by Spreadsheet Iteration”
+### **1. Positioning**
 
 This paper models institutional corruption as an emergent property of
-distributed rule iteration, not as a product of malicious actors or
+distributed rule iteration rather than a product of malicious actors or
 centralized intent.
 
-Institutions are treated as interconnected state machines:
-
-- Actors apply rules faithfully.
-
-- Decisions are locally rational.
-
-- Harm emerges through iteration.
-
-Corruption, in this model, is not rule-breaking.\
-It is what rules do when allowed to run unbounded across coordinated
-systems.
-
-# **2. Actor-Centric vs. Rule-Iterative Corruption**
-
-“Damage by Spreadsheet Iteration”
-
-## **2.1 Actor-Centric Model (Insufficient)**
-
-Conventional models assume:
-
-- Malicious actors
-
-- Coordinated intent
-
-- Discrete points of failure
-
-Remediation: identify and remove bad actors.
-
-This model fails when:
-
-- Harm persists after personnel replacement
-
-- Increased oversight amplifies damage
-
-- Compliance correlates with worse outcomes
-
-## **2.2 Rule-Iterative Model (Proposed)**
-
-Institutions operate as distributed automata governed by local update
-rules.
-
-Each node optimizes for:
-
-- Risk minimization
-
-- Liability reduction
-
-- Procedural efficiency
-
-Global harm arises from the interaction of locally correct updates.
-
-# **3. Automaton Structure**
-
-“Damage by Spreadsheet Iteration”
-
-## **3.1 Initialization**
-
-Representative defensible rules:
-
-- Anomalies are flagged
-
-- Prior flags increase scrutiny
-
-- Emotional volatility reduces credibility
-
-- Efficiency incentives favor rapid resolution
-
-Individually rational.\
-Collectively unstable under distortion.
-
-## **3.2 Iterative Propagation**
-
-Iteration 1:\
-Subject flagged in System A.
-
-Iteration 2:\
-System B consumes flag → increases scrutiny → records anomalies.
-
-Iteration 3:\
-System C interprets cross-system consistency as confirmation.
-
-Iteration 4:\
-Downstream evaluators treat classification as stable signal.
-
-Iteration 5:\
-Access to employment, housing, or services is restricted.
-
-No rule is violated.\
-No coordination is required.\
-The harm is computational.
-
-# **4. Structural Properties**
-
-“Damage by Spreadsheet Iteration”
-
-## **4.1 Non-Local Harm**
-
-Each node optimizes locally.\
-Global harm remains invisible at the decision scale.
-
-Replacing actors does not change outcomes.\
-The transition function persists.
-
-## **4.2 Rule Weaponization**
-
-An adversary need only introduce minimal early distortion.
-
-The system’s own protective rules propagate the distortion.
-
-The attack surface is the update rule, not institutional access.
-
-## **4.3 Attractor Formation**
-
-Once escalation begins, the system enters a self-reinforcing loop:
-
-Distortion\
-→ Flagging\
-→ Increased scrutiny\
-→ Confirmation\
-→ Stress response\
-→ Behavioral interpretation as instability\
-→ Reinforcement of classification
-
-Event-level correction fails.\
-Pattern-level intervention is required.
-
-# **5. Empirical Domains**
-
-“Damage by Spreadsheet Iteration”
-
-## **5.1 Child Welfare → Criminal Justice**
-
-Sequential flag propagation across medical, educational, and judicial
-systems produces cumulative escalation.
-
-Each stage is procedurally valid.\
-The aggregate outcome is not.
-
-## **5.2 Identity Distortion → Economic Exclusion**
-
-Fraud introduces anomalous signal.\
-Monitoring intensifies.\
-Credit inference hardens.\
-Housing and employment systems consume the classification.\
-Instability prevents correction.
-
-The automaton locks.
-
-## **5.3 AI Amplification**
-
-When distortions enter:
-
-- Public records
-
-- Training corpora
-
-- Deployed models
-
-Corrections do not propagate symmetrically.\
-Statistical reinforcement replaces review.
-
-The automaton becomes computationally persistent.
-
-# **6. Why Compliance Fails**
-
-“Damage by Spreadsheet Iteration”
-
-Existing frameworks test for:
-
-- Rule violation
-
-- Intent
-
-- Procedural deviation
-
-They do not test for:
-
-- Harm from faithful execution
-
-- Cross-system feedback loops
-
-- Attractor state formation
-
-A clean audit does not imply systemic health.
-
-# **7. Exploitation Without Access**
-
-“Damage by Spreadsheet Iteration”
-
-This model explains asymmetric harm scenarios:
-
-- False reports
-
-- Identity distortion
-
-- Administrative retaliation
-
-- Automated risk escalation
-
-The system performs harm autonomously once triggered.
-
-# **8. Remedial Architecture**
-
-“Damage by Spreadsheet Iteration”
-
-## **8.1 Insufficient Interventions**
-
-- Training
-
-- Awareness campaigns
-
-- Bias seminars
-
-- Personnel replacement
-
-These operate at the wrong level.
-
-## **8.2 Structural Requirements**
-
-Mitigation requires:
-
-- Decay functions on negative institutional memory
-
-- Contradiction-safe channels preventing premature closure
-
-- Pattern-level review mechanisms
-
-- Cross-system correction propagation
-
-Without these, harm persists structurally.
-
-## **8.3 Digital Permanence**
-
-Where individuals lack:
-
-- Data visibility
-
-- Deletion rights
-
-- Algorithmic inheritance transparency
-
-Automaton corruption becomes effectively permanent.
-
-# **9. Falsification Conditions**
-
-“Damage by Spreadsheet Iteration”
-
-The model fails if:
-
-- Coordinated systems demonstrate reliable distortion decay under the
-  specified rules
-
-- Local actor replacement alone produces global correction
-
-- Cross-system flag propagation does not amplify under prior distortion
-
-Absent such cases, rule-iterative corruption remains the most
-parsimonious account.
-
-# **10. Summary**
-
-“Damage by Spreadsheet Iteration”
-
-Institutional corruption can emerge without corrupt actors.
-
-Faithful rule application can generate irreversible harm when update
-rules propagate distortion across coordinated systems.
-
-The mechanism is iterative, not conspiratorial.
-
-AI amplification removes natural decay pathways.
-
-This model specifies execution mechanics, not moral judgment.
+Institutions are treated as interconnected state machines where actors
+apply rules faithfully, decisions are locally rational, and harm emerges
+through iteration. Corruption in this model is not rule-breaking—it is
+what rules do when allowed to run unbounded across coordinated systems.
+
+### **2. Actor-Centric vs. Rule-Iterative Corruption**
+
+The actor-centric model assumes malicious actors, coordinated intent,
+and discrete points of failure with remediation through personnel
+replacement; it fails when harm persists after replacement, increased
+oversight amplifies damage, or compliance correlates with worse
+outcomes.
+
+The rule-iterative model proposes instead that institutions operate as
+distributed automata governed by local update rules where each node
+optimizes for risk minimization, liability reduction, and procedural
+efficiency. Global harm arises from the interaction of locally correct
+updates rather than from any single actor's intent.
+
+### **3. Automaton Structure**
+
+The automaton initializes with representative defensible rules:
+anomalies are flagged, prior flags increase scrutiny, emotional
+volatility reduces credibility, and efficiency incentives favor rapid
+resolution—individually rational but collectively unstable under
+distortion.
+
+Iteration begins when a subject is flagged in one system; the next
+system consumes that flag and increases scrutiny while recording
+anomalies; subsequent systems interpret cross-system consistency as
+confirmation; downstream evaluators treat classification as stable
+signal; finally access to employment, housing, or services is
+restricted. No rule is violated and no coordination is required—the harm
+is computational.
+
+### **4. Structural Properties**
+
+Each node optimizes locally while global harm remains invisible at the
+decision scale; replacing actors does not change outcomes because the
+transition function persists.
+
+An adversary need only introduce minimal early distortion—system
+protective rules propagate it, so the attack surface is the update rule
+rather than institutional access. Once escalation begins, the system
+enters a self-reinforcing loop of distortion, flagging, increased
+scrutiny, confirmation, stress response, behavioral interpretation as
+instability, and reinforcement of classification.
+
+Event-level correction fails; pattern-level intervention is required to
+break the attractor.
+
+### **5. Empirical Domains**
+
+In child welfare-to-criminal justice pipelines, sequential flag
+propagation across medical, educational, and judicial systems produces
+cumulative escalation where each stage is procedurally valid but the
+aggregate outcome is not.
+
+In identity distortion leading to economic exclusion, fraud introduces
+anomalous signal that intensifies monitoring, hardens credit inference,
+gets consumed by housing and employment systems, and prevents correction
+because instability persists. The automaton locks into a stable
+corruption state.
+
+AI amplification occurs when distortions enter public records, training
+corpora, or deployed models; corrections do not propagate symmetrically
+while statistical reinforcement replaces review, making the automaton
+computationally persistent.
+
+### **6. Why Compliance Fails**
+
+Existing frameworks test for rule violation, intent, and procedural
+deviation but not for harm from faithful execution, cross-system
+feedback loops, or attractor state formation—a clean audit does not
+imply systemic health.
+
+### **7. Exploitation Without Access**
+
+This model explains asymmetric harm scenarios including false reports,
+identity distortion, administrative retaliation, and automated risk
+escalation—the system performs harm autonomously once triggered rather
+than requiring ongoing external input.
+
+### **8. Remedial Architecture**
+
+Insufficient interventions—training, awareness campaigns, bias seminars,
+personnel replacement—operate at the wrong level because they target
+actors rather than update rules.
+
+Mitigation requires decay functions on negative institutional memory,
+contradiction-safe channels preventing premature closure, pattern-level
+review mechanisms, and cross-system correction propagation; without
+these structural requirements, harm persists. Digital permanence
+compounds this where individuals lack data visibility, deletion rights,
+and algorithmic inheritance transparency—automaton corruption becomes
+effectively permanent.
+
+### **9. Falsification Conditions**
+
+The model fails if coordinated systems demonstrate reliable distortion
+decay under the specified rules, local actor replacement alone produces
+global correction, or cross-system flag propagation does not amplify
+under prior distortion—absent such cases, rule-iterative corruption
+remains the most parsimonious account.
+
+### **10. Summary**
+
+Institutional corruption can emerge without corrupt actors; faithful
+rule application generates irreversible harm when update rules propagate
+distortion across coordinated systems through iterative rather than
+conspiratorial mechanisms.
+
+AI amplification removes natural decay pathways while the model
+specifies execution mechanics, not moral judgment. The contribution of
+The Cellular-Automaton Model of Institutional Corruption is therefore a
+structured account of its governing constraints, mechanisms, and failure
+conditions.
 
 # Conclusion
 
@@ -318,8 +162,4 @@ This paper models institutional corruption as an emergent property of
 distributed, rule-compliant systems rather than conspiratorial intent or
 individual malfeasance. The contribution of The Cellular-Automaton Model
 of Institutional Corruption is therefore a structured account of its
-governing constraints, mechanisms, and failure conditions. Its claims
-remain bounded by the evidence and counterexamples specified in the
-paper, and its practical value depends on whether the proposed
-relationships improve explanation, prediction, or correction in the
-relevant domain.
+governing constraints, mechanisms, and failure conditions.
