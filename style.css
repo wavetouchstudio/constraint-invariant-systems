@@ -1,0 +1,318 @@
+:root {
+    --bg-primary: #0a0a1a;
+    --bg-secondary: #1a1a2e;
+    --text-primary: #e0e0ff;
+    --text-secondary: #a0a0c0;
+    --accent-cyan: #00ffff;
+    --accent-magenta: #ff00ff;
+    --accent-yellow: #ffff00;
+    --border-color: #2a2a4e;
+    --hover-bg: #1f1f3a;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Courier New', monospace;
+    line-height: 1.6;
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--accent-cyan);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+
+h1 { font-size: 2rem; border-bottom: 2px solid var(--accent-cyan); padding-bottom: 0.5rem; }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--accent-magenta); padding-bottom: 0.3rem; }
+h3 { font-size: 1.25rem; }
+
+p { margin-bottom: 1rem; color: var(--text-primary); }
+
+a {
+    color: var(--accent-cyan);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--accent-cyan);
+    transition: all 0.2s;
+}
+
+a:hover {
+    background: var(--accent-cyan);
+    color: var(--bg-primary);
+    border-bottom: 1px solid var(--accent-cyan);
+}
+
+ul, ol { margin-left: 2rem; margin-bottom: 1rem; }
+li { margin-bottom: 0.5rem; }
+
+blockquote {
+    border-left: 4px solid var(--accent-magenta);
+    padding: 1rem 1.5rem;
+    margin: 1.5rem 0;
+    background: var(--bg-secondary);
+    border-radius: 4px;
+}
+
+code {
+    background: var(--bg-secondary);
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+    color: var(--accent-yellow);
+    font-family: 'Courier New', monospace;
+}
+
+pre {
+    background: var(--bg-secondary);
+    padding: 1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+}
+
+pre code { background: transparent; padding: 0; }
+
+table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+
+th, td {
+    border: 1px solid var(--border-color);
+    padding: 0.75rem;
+    text-align: left;
+}
+
+th { background: var(--bg-secondary); color: var(--accent-cyan); }
+tr:nth-child(even) { background: var(--bg-secondary); }
+tr:hover { background: var(--hover-bg); }
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+}
+
+.abstract, .conclusion {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 4px;
+    border-left: 4px solid var(--accent-magenta);
+    margin: 1.5rem 0;
+}
+
+.abstract h3, .conclusion h3 { color: var(--accent-magenta); }
+
+.related-papers, .related-topics {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 4px;
+    border-left: 4px solid var(--accent-cyan);
+    margin: 2rem 0;
+}
+
+.related-papers h2, .related-topics h2 {
+    color: var(--accent-cyan);
+    border-bottom: none;
+    margin-top: 0;
+}
+
+.related-papers ul, .related-topics ul { list-style: none; margin-left: 0; }
+.related-papers li, .related-topics li { padding: 0.3rem 0; }
+
+.topic-tag {
+    display: inline-block;
+    background: var(--bg-primary);
+    border: 1px solid var(--accent-magenta);
+    color: var(--accent-magenta);
+    padding: 0.2rem 0.7rem;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    margin: 0.2rem 0.3rem 0.2rem 0;
+}
+
+.topic-tag:hover { background: var(--accent-magenta); color: var(--bg-primary); }
+
+.rel-label {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    font-style: italic;
+}
+
+nav {
+    background: var(--bg-secondary);
+    padding: 1rem;
+    border-radius: 4px;
+    margin-bottom: 2rem;
+    border: 1px solid var(--border-color);
+}
+
+nav a { display: inline-block; margin: 0.5rem; padding: 0.3rem 0.8rem; }
+nav a:hover { background: var(--accent-cyan); color: var(--bg-primary); }
+
+.graph-link {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--accent-magenta);
+    color: var(--bg-primary);
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.graph-link:hover { background: var(--accent-cyan); color: var(--bg-primary); }
+
+/* Dichotomy callout — for presenting both sides of a claim fairly.
+   Use two adjacent .dichotomy-side blocks inside a .dichotomy wrapper. */
+.dichotomy {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+
+@media (max-width: 700px) {
+    .dichotomy { grid-template-columns: 1fr; }
+}
+
+.dichotomy-side {
+    background: var(--bg-secondary);
+    padding: 1.25rem;
+    border-radius: 4px;
+    border-top: 3px solid var(--border-color);
+}
+
+.dichotomy-side.side-a { border-top-color: var(--accent-cyan); }
+.dichotomy-side.side-b { border-top-color: var(--accent-magenta); }
+
+.dichotomy-side h4 {
+    margin-top: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+}
+
+.dichotomy-side.side-a h4 { color: var(--accent-cyan); }
+.dichotomy-side.side-b h4 { color: var(--accent-magenta); }
+
+/* Belief-status tags — mark how confidently a claim is held */
+.belief-tag {
+    display: inline-block;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.15rem 0.6rem;
+    border-radius: 10px;
+    margin-bottom: 0.5rem;
+}
+
+.belief-tag.held      { background: rgba(0,255,255,0.15); color: var(--accent-cyan); border: 1px solid var(--accent-cyan); }
+.belief-tag.exploring { background: rgba(255,255,0,0.15); color: var(--accent-yellow); border: 1px solid var(--accent-yellow); }
+.belief-tag.contested { background: rgba(255,0,255,0.15); color: var(--accent-magenta); border: 1px solid var(--accent-magenta); }
+.belief-tag.private   { background: rgba(255,0,0,0.15); color: #ff5555; border: 1px solid #ff5555; }
+
+/* Review verdict block — editorial confidence note, separate from page content */
+.verdict-block { margin: 0.5rem 0 1.5rem 0; }
+.verdict-note {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+}
+
+/* Index / topics page layout (wider max-width than paper pages) */
+.wide-page { max-width: 1000px; }
+
+h1.page-title {
+    font-size: 2.5rem;
+    text-shadow: 0 0 15px rgba(0,255,255,0.5);
+    border-bottom: 2px solid var(--accent-cyan);
+    padding-bottom: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.subtitle { color: var(--text-secondary); margin-bottom: 2rem; font-style: italic; }
+
+.top-links { margin-bottom: 2rem; }
+.top-links a {
+    display: inline-block;
+    margin-right: 1rem;
+    padding: 0.5rem 1.2rem;
+    background: var(--accent-magenta);
+    color: var(--bg-primary);
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.top-links a:hover { background: var(--accent-cyan); color: var(--bg-primary); }
+
+.stats { color: var(--text-secondary); margin-bottom: 2rem; font-size: 0.9rem; }
+
+.paper-list { list-style: none; margin-left: 0; }
+.paper-list li { padding: 0.4rem 0; border-bottom: 1px dotted var(--border-color); }
+.paper-list a { color: var(--text-primary); text-decoration: none; transition: all 0.15s; }
+.paper-list a:hover { color: var(--accent-cyan); text-shadow: 0 0 6px rgba(0,255,255,0.4); padding-left: 0.5rem; }
+
+.axis-block { margin-bottom: 1rem; }
+
+.topic-section {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 4px;
+    border-left: 4px solid var(--accent-cyan);
+    margin: 2rem 0;
+}
+
+.topic-section h2 { margin-top: 0; border-bottom: none; }
+
+.alt-title {
+    color: var(--text-secondary);
+    font-style: italic;
+    font-size: 1.05rem;
+    margin-top: -0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.topic-header {
+    color: var(--accent-cyan);
+    font-size: 1.1rem;
+    border-bottom: 1px solid var(--accent-magenta);
+    padding-bottom: 0.3rem;
+    margin-bottom: 0.8rem;
+}
+
+.topic-desc {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+}
+
+.paper-link {
+    display: block;
+    padding: 0.4rem 0.6rem;
+    color: var(--text-primary);
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    margin-bottom: 0.2rem;
+    font-size: 0.9rem;
+    transition: all 0.15s ease;
+}
+
+.paper-link:hover {
+    color: var(--accent-cyan);
+    border-left-color: var(--accent-cyan);
+    background: var(--bg-secondary);
+}
+
+.stats {
+    color: var(--text-secondary);
+    font-size: 0.85rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
