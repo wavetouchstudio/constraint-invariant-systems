@@ -12,10 +12,12 @@ Formal but scoped to author's actual technical domain, falsifiable.
 
 “Stacked Limits and Scaling Illusions”
 
-Observed technological scaling laws—most prominently Moore's Law—are
-often misattributed to properties of individual physical layers such as
-transistor density. This paper argues instead that such laws emerge from
-composed sociotechnical systems spanning cognition, design, materials,
+This paper takes the constraint-recombination method from II.06 and
+applies it to a specific engineering puzzle. Observed technological
+scaling laws—most prominently Moore's Law—are often misattributed to
+properties of individual physical layers such as transistor density.
+This paper argues instead that such laws emerge from composed
+sociotechnical systems spanning cognition, design, materials,
 manufacturing, and governance. Scaling limits arise not primarily from
 physics but from non-commuting constraints across these layers, which
 generate rework, contradiction, and cost externalization.
@@ -216,4 +218,6 @@ Systems is therefore a structured account of its governing constraints,
 mechanisms, and failure conditions. Its claims remain bounded by the
 evidence and counterexamples specified in the paper, and its practical
 value depends on whether the proposed relationships improve explanation,
-prediction, or correction in the relevant domain.
+prediction, or correction in the relevant domain. The next paper (II.08)
+narrows this same cross-layer diagnosis to a single industry, tracing
+why bigger game productions collapse under their own scale.

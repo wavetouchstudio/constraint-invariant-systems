@@ -190,7 +190,9 @@ grounding.
 Exploration becomes durable execution only when past signal is
 integrated into predictive structure, and scaled agency emerges only
 when execution capacity is extended into process design under
-affect-regulated transitions.
+affect-regulated transitions. The next paper (I.04) asks what happens
+once that agency has scaled: why some people, once capable of maximizing
+income or status, choose instead to minimize dependency.
 
 # Conclusion
 

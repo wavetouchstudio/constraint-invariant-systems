@@ -12,8 +12,10 @@ Self-aware meta-methodology, explicit failure-modes section.
 
 “Finding the Same Skeleton in Different Bodies”
 
-This paper formalizes a reasoning technique that treats domain-specific
-jargon and disciplinary gatekeeping not as obstacles but as compressed
+II.05 treated symbolic frames as translations against a stable
+constraint node; this paper turns that same move into a working method.
+It formalizes a reasoning technique that treats domain-specific jargon
+and disciplinary gatekeeping not as obstacles but as compressed
 structural constraints. By internalizing these constraints and
 redeploying them outside their native silos without altering their
 functional behavior, the method exposes invariant system shapes masked
@@ -202,4 +204,7 @@ structured account of its governing constraints, mechanisms, and failure
 conditions. Its claims remain bounded by the evidence and
 counterexamples specified in the paper, and its practical value depends
 on whether the proposed relationships improve explanation, prediction,
-or correction in the relevant domain.
+or correction in the relevant domain. The next paper (II.07) applies
+this same cross-domain move to a concrete case: why technological
+scaling laws break down once you stop treating them as a single-layer
+property.

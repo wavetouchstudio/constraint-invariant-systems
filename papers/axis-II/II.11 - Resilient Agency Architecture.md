@@ -13,10 +13,12 @@ narrative.
 
 “Repair Without Fantasy”
 
-This paper integrates five disciplinary frameworks into a unified
-architecture addressing long-horizon harm cascades. It maps structural
-failures to a five-layer intervention stack spanning personal social
-legal, digital, and AI-governance domains.
+This closing paper of Axis II takes the pathway-removal principle from
+II.10 and every institutional failure mode named earlier in the axis,
+and turns them into something buildable. It integrates five disciplinary
+frameworks into a unified architecture addressing long-horizon harm
+cascades. It maps structural failures to a five-layer intervention stack
+spanning personal social legal, digital, and AI-governance domains.
 
 ## **Executive Summary**
 
@@ -330,4 +332,10 @@ governing constraints, mechanisms, and failure conditions. Its claims
 remain bounded by the evidence and counterexamples specified in the
 paper, and its practical value depends on whether the proposed
 relationships improve explanation, prediction, or correction in the
-relevant domain.
+relevant domain. That is the arc of Axis II: signal-dependent escalation
+(II.01), corruption by faithful rule iteration (II.02), forced ejection
+of productive process (II.03), the cognitive stratification that follows
+from it (II.04–II.05), a method for moving structural insight across
+domains (II.06–II.08), the largest-scale case that method explains
+(II.09), and finally an alignment framework and operational blueprint
+built on everything the axis diagnosed.

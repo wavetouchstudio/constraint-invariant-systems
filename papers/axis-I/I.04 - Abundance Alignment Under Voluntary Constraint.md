@@ -166,7 +166,10 @@ imposed scarcity.
 ### **Final Compression**
 
 Abundance does not require more; it requires fewer illusions—and
-disciplined opacity where power is asymmetric.
+disciplined opacity where power is asymmetric. The next paper (I.05)
+turns from voluntary constraint chosen by one person to constraint
+imposed on a relationship, examining what happens when good-faith
+transparency stops producing alignment at all.
 
 # Conclusion
 

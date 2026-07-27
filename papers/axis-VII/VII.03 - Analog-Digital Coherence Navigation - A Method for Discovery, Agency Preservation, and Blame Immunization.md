@@ -18,28 +18,30 @@ analysis, and responsibility localization
 
 “Crossing the Seam Without Tearing Reality”
 
-This paper presents Analog-Digital Coherence Navigation, a proposed
-method for discovery in complex or underdetermined problem spaces. The
-method alternates analog expansion, which generates low-commitment
-candidate structures from weak signals, metaphor, and semantic
-association, with digital constraint, which tests candidates against
-definitions, logic, evidence, and traceable responsibility. Residual
-analysis preserves what remains unresolved after constraint as input to
-the next cycle instead of forcing premature closure. A governing
-attribution rule - formal enablement does not by itself establish
-event-level authorship - is used to keep contextual explanation from
-dissolving local responsibility. The paper also operationalizes a
-Narrative Displacement Index as a proposed diagnostic for explanations
-that rely on abstract actors while omitting identifiable decisions.
-Applications to organizational, family, workplace, technical, and
-metaphysical inquiry illustrate the protocol without validating it. The
-framework is a methodological proposal and hypothesis generator, not a
-demonstrated discovery advantage, a general theory of causation, or a
-mechanism for immunizing agents from warranted accountability.
+Following the structural account of agency under noise and symbolic
+capture in the previous paper of this axis (VII.02), this paper turns to
+method: how an agent or an inquiry can search open terrain without
+either freezing prematurely or drifting into ungrounded narrative. This
+paper presents Analog-Digital Coherence Navigation, a proposed method
+for discovery in complex or underdetermined problem spaces. The method
+alternates analog expansion, which generates low-commitment candidate
+structures from weak signals, metaphor, and semantic association, with
+digital constraint, which tests candidates against definitions, logic,
+evidence, and traceable responsibility. Residual analysis preserves what
+remains unresolved after constraint as input to the next cycle instead
+of forcing premature closure. A governing attribution rule - formal
+enablement does not by itself establish event-level authorship - is used
+to keep contextual explanation from dissolving local responsibility. The
+paper also operationalizes a Narrative Displacement Index as a proposed
+diagnostic for explanations that rely on abstract actors while omitting
+identifiable decisions. Applications to organizational, family,
+workplace, technical, and metaphysical inquiry illustrate the protocol
+without validating it. The framework is a methodological proposal and
+hypothesis generator, not a demonstrated discovery advantage, a general
+theory of causation, or a mechanism for immunizing agents from warranted
+accountability.
 
-# 1. Discovery Under Premature Closure
-
-“Crossing the Seam Without Tearing Reality”
+## **1. Discovery Under Premature Closure**
 
 Difficult inquiries often begin before the relevant variables,
 categories, or measurement procedures are stable. A method that demands
@@ -68,7 +70,7 @@ each cycle to preserve an account of who or what supplied constraints,
 who made consequential selections, what evidence pruned the model, and
 what remains unresolved.
 
-## 1.1 Contribution and epistemic status
+### **1.1 Contribution and epistemic status**
 
 The contribution is procedural: a cyclic search architecture, an
 attribution discipline, a residual log, and proposed diagnostics for
@@ -81,9 +83,7 @@ Its mechanisms are proposals, its evaluation criteria are provisional,
 its examples are illustrative, and its predictions require operational
 definitions and comparison conditions.
 
-# 2. Definitions and Attribution Roles
-
-“Crossing the Seam Without Tearing Reality”
+## **2. Definitions and Attribution Roles**
 
 **Analog exploration.** A pre-formal reasoning mode that keeps multiple
 candidate meanings or structures available long enough to detect
@@ -137,7 +137,7 @@ Table 1. Analog and digital reasoning roles
 | Characteristic risk | Projection, narrative substitution, and self-sealing coherence. | Premature closure, false precision, and exclusion of unparameterized novelty. |
 | Required handoff | Candidate map with uncertainty retained. | Decision record identifying rejection, retention, and residuals. |
 
-## 2.1 The governing attribution rule
+### **2.1 The governing attribution rule**
 
 The source states the invariant as 'enablement is not causation' while
 defining causation as authorship or efficient cause. That wording is too
@@ -158,9 +158,7 @@ incentives, and responsibilities attached to designing or maintaining
 the context. The protocol therefore localizes responsibility without
 pretending that context is irrelevant.
 
-# 3. The Analog-Digital Cycle
-
-“Crossing the Seam Without Tearing Reality”
+## **3. The Analog-Digital Cycle**
 
 The method is iterative rather than a one-way funnel. Each pass
 generates, tests, records, and reopens candidates through four phases:
@@ -189,7 +187,7 @@ Table 2. Outputs and guardrails for each protocol phase
 | Residual analysis | Prioritized unresolved questions | Retain only remainders traceable to a failed or incomplete test. | Every anomaly is promoted to high-value signal. |
 | Iteration | Revised model and decision record | State the use criterion and stopping rule. | Coherence is declared without external challenge. |
 
-## 3.1 Why the cycle may improve inquiry
+### **3.1 Why the cycle may improve inquiry**
 
 The protocol assigns search and stabilization to different operations.
 Analog exploration can surface relations that a fixed variable set would
@@ -205,7 +203,7 @@ quality and independence of constraints, the cost of testing, the
 competence of participants, and whether stopping criteria are specified
 before a preferred conclusion appears.
 
-## 3.2 Stability and stopping
+### **3.2 Stability and stopping**
 
 **Directional closure.** Enough navigational coherence to support the
 next bounded decision while keeping material residuals visible.
@@ -218,11 +216,9 @@ Stability should be reopened when new evidence, a failed prediction, an
 unrepresented stakeholder, or a previously hidden decision point changes
 those conditions.
 
-# 4. Recursive Blame and Dual Attribution
+## **4. Recursive Blame and Dual Attribution**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 4.1 The recursive category error
+### **4.1 The recursive category error**
 
 The source describes a scale-repeating attribution failure. Restated
 with the narrower invariant, the pattern is:
@@ -249,7 +245,7 @@ decision, or appeal path remains. It can also support scapegoating when
 a complex outcome is assigned to one symbolic target while other
 contributors disappear.
 
-## 4.2 Responsibility localization rule
+### **4.2 Responsibility localization rule**
 
 For a consequential event, the protocol requires two linked accounts:
 
@@ -279,11 +275,9 @@ Table 3. Attribution roles and common collapses
 | Execution | Who carried out the act? | Actions, logs, transactions, direct observation | Treating execution as the only responsibility-bearing role |
 | Maintenance or omission | Who knowingly sustained or failed to correct the condition? | Notice, authority, capacity, duty, and response history | Assigning omission without evidence of knowledge or capacity |
 
-# 5. Language as a Controlled Search Field
+## **5. Language as a Controlled Search Field**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 5.1 Semantic superposition
+### **5.1 Semantic superposition**
 
 During analog exploration, a word can provisionally carry several
 related senses. Metaphor, etymology, sound, contrast, and symbolic
@@ -298,7 +292,7 @@ association that survives analog exploration must later be restated as a
 claim whose terms, evidence requirements, alternatives, and scope can be
 challenged.
 
-## 5.2 Constraint on semantic exploration
+### **5.2 Constraint on semantic exploration**
 
 A linguistic move can remain in the working model only if it survives
 the attribution invariant, internal consistency, relevant evidence, and
@@ -317,9 +311,7 @@ features differ, and what observation would make the analogy unhelpful.
 - Record discarded symbolic links so they do not quietly return as
   premises in later cycles.
 
-# 6. Intuition as Pre-Formal Gradient Detection
-
-“Crossing the Seam Without Tearing Reality”
+## **6. Intuition as Pre-Formal Gradient Detection**
 
 **Intuition (proposed operationalization).** The capacity to notice a
 possible increase in model coherence before the relevant relation can be
@@ -341,9 +333,7 @@ cases. These are proposed evaluation dimensions, not validated metrics,
 and they can conflict: a rapidly convergent model may be narrow, while a
 transferable model may require more cycles.
 
-# 7. Residual Ambiguity and Incomplete Models
-
-“Crossing the Seam Without Tearing Reality”
+## **7. Residual Ambiguity and Incomplete Models**
 
 The method rejects total closure as a default success criterion. Bounded
 analysts rarely exhaust the possibility space of a sufficiently complex
@@ -377,11 +367,9 @@ These categories are editorial operationalizations of the source's
 residual concept. They make incompleteness auditable without treating
 every remainder as equally informative.
 
-# 8. Narrative Displacement Index
+## **8. Narrative Displacement Index**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 8.1 Proposed metric
+### **8.1 Proposed metric**
 
 The source proposes the Narrative Displacement Index (NDI) to detect
 responsibility escape into abstractions such as 'the system,' 'culture,'
@@ -406,7 +394,7 @@ implementation. Reliability would require a codebook, independent
 coders, agreement checks, a defined unit of analysis, and comparison
 against outcomes not supplied in the source.
 
-## 8.2 Hypotheses and limits
+### **8.2 Hypotheses and limits**
 
 The source predicts that high narrative displacement accompanies
 scapegoating, moral laundering, escalation, and eventual coordination
@@ -422,11 +410,9 @@ roles and evidence; then reform enabling conditions without dissolving
 the contributions of agents who selected, maintained, or could correct
 the outcome.
 
-# 9. Application Templates
+## **9. Application Templates**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 9.1 Organizational and leadership failure
+### **9.1 Organizational and leadership failure**
 
 A narrative such as 'the CEO caused everything' may be an unsupported
 scapegoat, a compressed but partially accurate account, or a claim about
@@ -438,7 +424,7 @@ direct acts, authorization, incentives, negligent oversight,
 concealment, or continued maintenance even when managers and teams also
 author local acts.
 
-## 9.2 Family and relationship dynamics
+### **9.2 Family and relationship dynamics**
 
 Family structure can shape roles, taboo topics, alliances, dependencies,
 and the cost of disclosure. Individuals can also author punishment,
@@ -449,7 +435,7 @@ enabling histories and current pressures from observable acts, then asks
 what protection, repair, boundary, or accountability process is
 available. This is an analytic template, not a clinical assessment tool.
 
-## 9.3 Workplace conflict
+### **9.3 Workplace conflict**
 
 The source describes a high-integrity, rule-following worker who resists
 informal social games and becomes a threat node. Integrity and threat
@@ -460,7 +446,7 @@ exclusion occurred, and decision makers can state evidence and appeal
 paths. Localizing a choice to criticize, exclude, or sanction does not
 prejudge whether that choice was warranted.
 
-## 9.4 AI and technical accountability
+### **9.4 AI and technical accountability**
 
 In AI-mediated decisions, 'the algorithm did it' is incomplete when it
 obscures choices about objectives, training data, evaluation,
@@ -480,11 +466,9 @@ Table 4. Application template
 | Workplace conflict | Role expectations, informal norms, evaluation and appeal procedures | Who interpreted, documented, sanctioned, retaliated, or reviewed? | Clarify standards and test consequential judgments against evidence. |
 | AI-mediated decision | Model, data, interface, deployment, monitoring and override design | Who selected objectives, thresholds, use context, and response? | Correct technical mechanisms and governance decision points together. |
 
-# 10. Practitioner Protocol
+## **10. Practitioner Protocol**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 10.1 Setup checklist
+### **10.1 Setup checklist**
 
 - Define the decision domain, users, time horizon, and exclusions.
 
@@ -500,7 +484,7 @@ Table 4. Application template
 - Choose a stopping rule and specify what level of uncertainty the
   decision can tolerate.
 
-## 10.2 Run the loop
+### **10.2 Run the loop**
 
 1.  Analog expansion. Gather signals, candidate structures, metaphors,
     and weak relations; mark confidence as provisional.
@@ -515,7 +499,7 @@ Table 4. Application template
 4.  Iteration. Revise the search surface and continue until the declared
     stability or stopping condition is met.
 
-## 10.3 Proposed implementation artifacts
+### **10.3 Proposed implementation artifacts**
 
 **Candidate ledger.** A list of analog candidates, their source,
 confidence, and the digital test each must face.
@@ -535,7 +519,7 @@ These artifacts are editorial operationalizations derived from the
 source protocol. They are proposed implementation aids, not established
 components of a validated method.
 
-## 10.4 Immediate reset conditions
+### **10.4 Immediate reset conditions**
 
 - An unfalsifiable claim is protected by adding exceptions after each
   failed test.
@@ -555,11 +539,9 @@ components of a validated method.
 - Residuals accumulate without prioritization, testing conditions, or a
   stopping rule.
 
-# 11. Proposed Evaluation and Predictions
+## **11. Proposed Evaluation and Predictions**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 11.1 Evaluation dimensions
+### **11.1 Evaluation dimensions**
 
 A method that claims to accelerate discovery and preserve agency should
 be evaluated against alternatives. The following dimensions are proposed
@@ -590,7 +572,7 @@ candidate generation can increase novelty while lowering efficiency;
 stronger digital pruning can improve apparent survival while excluding
 unfamiliar but valuable candidates.
 
-## 11.2 Testable predictions
+### **11.2 Testable predictions**
 
 1.  For underparameterized tasks, a staged analog-digital process will
     generate more later-testable candidate structures than an early
@@ -618,11 +600,9 @@ defining success as agreement with the method's preferred language.
 Failure of a prediction should constrain the relevant mechanism rather
 than be recoded as a meaningful residual by default.
 
-# 12. Scope, Failure Modes, and Metaphysical Use
+## **12. Scope, Failure Modes, and Metaphysical Use**
 
-“Crossing the Seam Without Tearing Reality”
-
-## 12.1 Scope limits
+### **12.1 Scope limits**
 
 The framework does not:
 
@@ -648,7 +628,7 @@ The framework does not:
 - replace domain expertise, empirical research, legal standards,
   clinical assessment, or case-specific evidence.
 
-## 12.2 Metaphysical hygiene
+### **12.2 Metaphysical hygiene**
 
 The source applies the attribution invariant to metaphysical modeling
 and calls the result metaphysical hygiene. In this paper that use is a
@@ -664,7 +644,7 @@ be evaluated at the appropriate level. Analogy cannot function as
 evidence, and uncertainty about ultimate conditions cannot be used to
 displace responsibility for traceable human decisions.
 
-## 12.3 Method-level failure modes
+### **12.3 Method-level failure modes**
 
 - Analog capture: a compelling association becomes identity-protected
   before testing.
@@ -684,9 +664,7 @@ displace responsibility for traceable human decisions.
 - Coherence substitution: internal consistency is treated as proof that
   the method found reality.
 
-# 13. What the Method Produces
-
-“Crossing the Seam Without Tearing Reality”
+## **13. What the Method Produces**
 
 When it functions as intended, Analog-Digital Coherence Navigation
 produces a framework rather than a final theory: a candidate map, a
@@ -703,7 +681,17 @@ and unresolved surfaces needed for revision. Whether it accelerates
 discovery, improves accountability, or transfers across domains remains
 an empirical question.
 
-# 14. Conclusion
+## **One-Sentence Summary**
+
+Analog-Digital Coherence Navigation is a discipline for crossing the
+seam between an idea that isn't yet fully formed and a claim that can be
+tested, without letting either side of that seam quietly absorb
+responsibility that belongs to a traceable decision. The next paper in
+this axis (VII.04) narrows this same discipline to language itself,
+modeling how a speaker shifts among neutral, functional, and
+boundary-defensive modes as a control layer under social pressure.
+
+# Conclusion
 
 “Crossing the Seam Without Tearing Reality”
 
@@ -726,7 +714,7 @@ a proposed infrastructure for directional closure: enough coherence to
 act, enough residual visibility to revise, and enough causal precision
 to keep responsibility attached to evidence.
 
-## Key Contributions
+## **Key Contributions**
 
 1.  A four-phase cyclic protocol linking analog expansion, digital
     constraint, residual analysis, and iteration.

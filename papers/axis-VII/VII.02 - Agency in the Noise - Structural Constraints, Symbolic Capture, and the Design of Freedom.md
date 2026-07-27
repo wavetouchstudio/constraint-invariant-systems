@@ -18,28 +18,30 @@ governance
 
 “Agency Without Permission Slips”
 
-This paper presents a structural model of agency under symbolic,
-attentional, social, and organizational noise. Agency is treated not as
-a moral virtue or an unlimited power, but as a bounded capacity whose
-exercise depends on available options, regulatory resources, identity
-structure, feedback, and system design. Attributed meaning can steer
-attention, interpretation, action, and later opportunity. When symbols
-carry directional meaning while authorship and correction remain
-diffuse, individuals may experience a trajectory they did not
-deliberately select as a form of false destiny. The framework calls this
-symbolic capture. It also examines stimulus overload, willpower as
-conditioned regulation, identity as a revisable filter, discipline as a
-trade between local choice and future leverage, resentment as a possible
-coordination pressure, and governance failures that permit unaccountable
-social interpretation to override relevant evidence. The account is a
-synthesis and hypothesis generator, not an established causal theory.
-Its practical claim is narrower: systems can make agency easier or more
+Where the previous paper in this axis (VII.01) modeled how delayed or
+unsafe feedback becomes internal displacement, this paper turns outward,
+from the correction loop inside an agent to the structural conditions
+that decide whether acting on that feedback is even possible. This paper
+presents a structural model of agency under symbolic, attentional,
+social, and organizational noise. Agency is treated not as a moral
+virtue or an unlimited power, but as a bounded capacity whose exercise
+depends on available options, regulatory resources, identity structure,
+feedback, and system design. Attributed meaning can steer attention,
+interpretation, action, and later opportunity. When symbols carry
+directional meaning while authorship and correction remain diffuse,
+individuals may experience a trajectory they did not deliberately select
+as a form of false destiny. The framework calls this symbolic capture.
+It also examines stimulus overload, willpower as conditioned regulation,
+identity as a revisable filter, discipline as a trade between local
+choice and future leverage, resentment as a possible coordination
+pressure, and governance failures that permit unaccountable social
+interpretation to override relevant evidence. The account is a synthesis
+and hypothesis generator, not an established causal theory. Its
+practical claim is narrower: systems can make agency easier or more
 costly by changing noise, option access, decision rules, correction
 pathways, and the visibility of local authorship.
 
-# 1. Core Premise
-
-“Agency Without Permission Slips”
+## **1. Core Premise**
 
 Human agency is neither absolute nor absent. It is a limited,
 conditionable capacity exercised within physical, social, informational,
@@ -66,7 +68,7 @@ failure, erase individual responsibility, or assign intention to an
 environment. It means that local authorship operates through a capacity
 whose cost and range vary with context.
 
-## 1.1 Contribution and epistemic status
+### **1.1 Contribution and epistemic status**
 
 The paper integrates source observations about meaning, symbolism,
 plausible deniability, stimulus load, identity, discipline, workplace
@@ -79,9 +81,7 @@ predictions require operational measures and comparison conditions. The
 source provides no citations or data sufficient to establish universal
 effects.
 
-# 2. Roles, Constraints, and Meaning Layers
-
-“Agency Without Permission Slips”
+## **2. Roles, Constraints, and Meaning Layers**
 
 **Capacity for agency.** The conditionable ability to notice options,
 select among them, act, and revise action in response to feedback.
@@ -107,7 +107,7 @@ Table 1. Agency and constraint roles
 | Constraint context | What made options possible, costly, visible, or unavailable? | Structure is ignored or incorrectly described as an intentional actor. |
 | Formal enablement | Which actions did the rule space permit? | Permission is treated as instruction, endorsement, or sufficient cause. |
 
-## 2.1 Distinguishing kinds of meaning
+### **2.1 Distinguishing kinds of meaning**
 
 **Attributed meaning.** The significance an agent assigns to an event,
 symbol, role, or option. This is the primary sense used in the paper's
@@ -126,50 +126,50 @@ These layers interact but should not be treated as interchangeable. A
 message can have stable semantic content while its experiential
 significance and coordination effects vary across agents and contexts.
 
-# 3. Meaning as a Driver of Agency
+## **3. Meaning as a Driver of Agency**
 
-“Agency Without Permission Slips”
-
-## 3.1 Meaning affects trajectory
+### **3.1 Meaning affects trajectory**
 
 The source proposes a four-stage steering sequence:
 
-1.  Words, symbols, and narratives shape the allocation of attention.
+1.  **Attention allocation.** Words, symbols, and narratives shape the
+    allocation of attention.
 
-2.  Attention changes which interpretations become available or
-    dominant.
+2.  **Interpretation shift.** Attention changes which interpretations
+    become available or dominant.
 
-3.  Interpretation influences behavior by changing perceived costs,
-    obligations, and options.
+3.  **Behavior change.** Interpretation influences behavior by changing
+    perceived costs, obligations, and options.
 
-4.  Behavior changes the future state space by opening some paths and
-    closing others.
+4.  **State-space narrowing.** Behavior changes the future state space
+    by opening some paths and closing others.
 
 Meaning therefore can bias agency without replacing it. It influences
 the option set an agent perceives and the weight assigned to each
 option. It does not follow that language mechanically determines
 behavior or that an agent cannot reinterpret, refuse, or revise a frame.
 
-## 3.2 Delayed meaning and false destiny
+### **3.2 Delayed meaning and false destiny**
 
 Meanings may be internalized before deliberate examination, reinforced
 through repeated social feedback, and later experienced as inevitable.
 The proposed capture sequence is:
 
-1.  A narrative attaches significance to a role, identity, obligation,
-    or future.
+1.  **Attachment.** A narrative attaches significance to a role,
+    identity, obligation, or future.
 
-2.  Repetition and social reinforcement make the attribution familiar
-    and costly to question.
+2.  **Reinforcement.** Repetition and social reinforcement make the
+    attribution familiar and costly to question.
 
-3.  The attribution becomes part of the agent's predictive and identity
-    structure.
+3.  **Internalization.** The attribution becomes part of the agent's
+    predictive and identity structure.
 
-4.  Later choices are filtered through that inherited frame and may feel
-    self-originating.
+4.  **Filtering.** Later choices are filtered through that inherited
+    frame and may feel self-originating.
 
-5.  The resulting direction, identity, or obligation is experienced as
-    destined despite incomplete conscious authorship.
+5.  **Experienced destiny.** The resulting direction, identity, or
+    obligation is experienced as destined despite incomplete conscious
+    authorship.
 
 **False destiny.** The phenomenology of direction without deliberate
 choice, identity without reflective authorship, or obligation without an
@@ -181,11 +181,9 @@ person's trajectory. Capture is a matter of path dependence and
 correction cost. New information, relationships, material options, and
 self-examination can reopen paths that previously appeared closed.
 
-# 4. Symbolism and Plausible Deniability
+## **4. Symbolism and Plausible Deniability**
 
-“Agency Without Permission Slips”
-
-## 4.1 Symbolic compression
+### **4.1 Symbolic compression**
 
 Symbols compress more information than they state explicitly. They can
 suggest values, affiliations, threats, and desired trajectories while
@@ -200,7 +198,7 @@ This makes symbolic communication efficient, portable, and ambiguous.
 - Interpretive completion lets the audience participate in producing the
   message's practical meaning.
 
-## 4.2 Diffused accountability
+### **4.2 Diffused accountability**
 
 Plausible deniability can diffuse responsibility, abstract intent, and
 make correction difficult because no participant appears to own the
@@ -212,19 +210,20 @@ decision makers.
 Symbolic capture becomes more likely when the following conditions
 combine:
 
-1.  A symbol carries high experiential significance but low
-    explicitness.
+1.  **High significance, low explicitness.** A symbol carries high
+    experiential significance but low explicitness.
 
-2.  Many participants contribute small, individually deniable signals.
+2.  **Distributed signaling.** Many participants contribute small,
+    individually deniable signals.
 
-3.  The affected person must infer the rule or obligation from patterns
-    rather than a contestable statement.
+3.  **Inferred obligation.** The affected person must infer the rule or
+    obligation from patterns rather than a contestable statement.
 
-4.  Resistance lacks a clear recipient, evidence threshold, or
-    correction pathway.
+4.  **No correction pathway.** Resistance lacks a clear recipient,
+    evidence threshold, or correction pathway.
 
-5.  The person internalizes the frame while also being held responsible
-    for complying with it.
+5.  **Held responsible anyway.** The person internalizes the frame while
+    also being held responsible for complying with it.
 
 The mechanism does not require a conspiracy or a single hidden author.
 It can emerge from incentives, imitation, ambiguity, and fragmented
@@ -232,27 +231,25 @@ responsibility. Nor does every ambiguous symbol constitute capture; the
 relevant test is whether interpretation becomes directional and costly
 to contest without accountable correction.
 
-# 5. Stimulus Load and Regulatory Capacity
+## **5. Stimulus Load and Regulatory Capacity**
 
-“Agency Without Permission Slips”
-
-## 5.1 Overload as a conditional mechanism
+### **5.1 Overload as a conditional mechanism**
 
 Sustained exposure to frequent, ambiguous, or competing stimuli can
 consume attentional and regulatory resources. The source's stronger
 causal wording is best treated as a conditional sequence:
 
-1.  Stimuli compete for limited attention and repeatedly interrupt task
-    or goal maintenance.
+1.  **Competition for attention.** Stimuli compete for limited attention
+    and repeatedly interrupt task or goal maintenance.
 
-2.  Ambiguity increases the interpretive work required to decide what
-    matters.
+2.  **Interpretive load.** Ambiguity increases the interpretive work
+    required to decide what matters.
 
-3.  Under sufficient load, agents may rely more on reactive or familiar
-    interpretations.
+3.  **Reactive fallback.** Under sufficient load, agents may rely more
+    on reactive or familiar interpretations.
 
-4.  Perceived choice can narrow as fewer options remain cognitively
-    available or materially affordable.
+4.  **Narrowed choice.** Perceived choice can narrow as fewer options
+    remain cognitively available or materially affordable.
 
 Agency is constrained, not necessarily removed. Effects will vary with
 duration, intensity, relevance, prior learning, sleep, material
@@ -260,7 +257,7 @@ conditions, individual differences, and access to recovery. The source
 does not establish a universal threshold at which stimulus becomes
 overload.
 
-## 5.2 Willpower reframed
+### **5.2 Willpower reframed**
 
 **Regulatory capacity.** A conditioned and context-sensitive ability to
 maintain, inhibit, or redirect action. Experience, stability,
@@ -273,9 +270,7 @@ changing friction, cues, recovery time, sanctions, and available
 alternatives. The individual still acts locally, but not from an equal
 starting cost in every setting.
 
-# 6. Identity as an Agency Filter
-
-“Agency Without Permission Slips”
+## **6. Identity as an Agency Filter**
 
 The source's glass model treats identity as an internal constraint
 system that filters meaning. An identity with few articulated
@@ -304,9 +299,7 @@ every difference into a signal that must be resisted. These are
 functional descriptions, not diagnoses or claims that identity is ever
 fully independent of culture, relationships, and inherited language.
 
-# 7. Discipline, Productivity, and Agency Tradeoffs
-
-“Agency Without Permission Slips”
+## **7. Discipline, Productivity, and Agency Tradeoffs**
 
 Discipline and productivity intentionally reduce local choice. They
 automate behavior, narrow exploration, and prioritize selected outcomes
@@ -329,11 +322,9 @@ from control. The distinction depends on authorship, exit, revision,
 benefit, and consequence, not on whether behavior looks orderly from
 outside.
 
-# 8. The Social Counterforce
+## **8. The Social Counterforce**
 
-“Agency Without Permission Slips”
-
-## 8.1 Focus, reciprocity, and status ambiguity
+### **8.1 Focus, reciprocity, and status ambiguity**
 
 A highly focused, non-reactive worker may withdraw from ordinary social
 signaling, reduce emotional reciprocity, and make status cues harder to
@@ -347,35 +338,35 @@ expectations, interpersonal dislike, or a legitimate response to work
 that affects others. A structural analysis should compare these
 alternatives before labeling scrutiny as covert control.
 
-## 8.2 Resentment as possible coordination pressure
+### **8.2 Resentment as possible coordination pressure**
 
 Where resentment does function as informal regulation, the proposed
 sequence is:
 
-1.  Focused behavior departs from expected signaling or reciprocity.
+1.  **Departure from norm.** Focused behavior departs from expected
+    signaling or reciprocity.
 
-2.  The departure creates uncertainty about affiliation, contribution,
-    or status.
+2.  **Uncertainty.** The departure creates uncertainty about
+    affiliation, contribution, or status.
 
-3.  Participants interpret the uncertainty through the available
-    workplace narrative.
+3.  **Narrative interpretation.** Participants interpret the uncertainty
+    through the available workplace narrative.
 
-4.  Scrutiny, obstruction, exclusion, or labels such as 'not a team
-    player' increase.
+4.  **Informal enforcement.** Scrutiny, obstruction, exclusion, or
+    labels such as 'not a team player' increase.
 
-5.  Because the enforcement remains informal, the affected person has
-    difficulty identifying an appeal or correction path.
+5.  **No appeal path.** Because the enforcement remains informal, the
+    affected person has difficulty identifying an appeal or correction
+    path.
 
 This mechanism need not imply malice. It describes one way coordination
 pressure may become plausibly deniable friction. Evidence would require
 observable patterns, alternative explanations, and outcome measures, not
 inference from focus or conflict alone.
 
-# 9. Organizational Governance
+## **9. Organizational Governance**
 
-“Agency Without Permission Slips”
-
-## 9.1 The design failure
+### **9.1 The design failure**
 
 A governance problem emerges when an organization claims to evaluate
 measurable performance but allows unbounded social interpretation to
@@ -391,7 +382,7 @@ misconduct, interpersonal responsibility, or the legitimate relevance of
 teamwork, safety, discrimination, and other outcomes that are not
 captured by a narrow productivity metric.
 
-## 9.2 Bounded interpretation
+### **9.2 Bounded interpretation**
 
 The source's absolute rule - that a social interpretation must not
 affect decisions unless it measurably affects outcomes - is revised into
@@ -414,9 +405,7 @@ contestable decision path.
 - Protect reporting and correction channels so informal status does not
   become the only governance layer.
 
-# 10. The Two-Sided Rule
-
-“Agency Without Permission Slips”
+## **10. The Two-Sided Rule**
 
 The source proposes that every consequential concept be examined from at
 least two functional sides: stabilizing and degenerative, enabling and
@@ -441,9 +430,7 @@ established invariant. A more testable expectation is that systems which
 cannot represent their own failure modes will detect and correct those
 failures later and at greater cost.
 
-# 11. Religion and Identity Scaffolding
-
-“Agency Without Permission Slips”
+## **11. Religion and Identity Scaffolding**
 
 The source interprets long-lived religions partly as identity frameworks
 that constrain chaos, preserve orientation under noise, and encode
@@ -463,9 +450,7 @@ here. At most, the paper identifies a research question: whether
 different traditions encode recurrent coordination, boundary, attention,
 and conduct problems through non-equivalent symbolic systems.
 
-# 12. Unintegrated Layers of Modern Society
-
-“Agency Without Permission Slips”
+## **12. Unintegrated Layers of Modern Society**
 
 The source describes two poorly integrated layers: metaphysics as
 meaning without governance, and plausible deniability as governance
@@ -489,9 +474,7 @@ and correction paths legible enough to contest. Transparency is not
 automatically sufficient; information must also be usable, contextual,
 and connected to a responsible decision process.
 
-# 13. Integrated Model and Design Principles
-
-“Agency Without Permission Slips”
+## **13. Integrated Model and Design Principles**
 
 The source's final model can be stated as a conditional chain.
 Attributed meaning directs attention; symbols compress and transmit that
@@ -507,7 +490,7 @@ design objective is therefore not maximum choice at every moment. It is
 a workable relation among option access, reflection, commitment,
 accountability, and correction.
 
-## 13.1 Design principles
+### **13.1 Design principles**
 
 - Reduce avoidable noise and ambiguity around consequential rules.
 
@@ -529,7 +512,7 @@ accountability, and correction.
 - Represent the stabilizing and degenerative sides of each governance
   tool.
 
-## 13.2 Testable predictions
+### **13.2 Testable predictions**
 
 1.  Higher stimulus ambiguity and interruption frequency will be
     associated with narrower perceived option sets when recovery and
@@ -555,7 +538,7 @@ These are model predictions rather than findings. Each requires
 operational definitions, credible alternatives, and safeguards against
 turning disagreement or distress into evidence of hidden capture.
 
-## 13.3 Scope and limits
+### **13.3 Scope and limits**
 
 The framework does not:
 
@@ -576,7 +559,18 @@ The framework does not:
 
 - claim that conscious selection can eliminate inherited influence.
 
-# 14. Conclusion
+## **One-Sentence Summary**
+
+Agency, on this account, is a bounded capacity that noise, symbolic
+capture, and diffuse authorship can quietly narrow long before anyone
+experiences it as coercion—which is why restoring it is a design
+problem, not a willpower problem. The next paper in this axis (VII.03)
+turns to a method for navigating exactly this kind of underdetermined
+terrain, alternating open-ended exploration with disciplined constraint
+so that a search for structure doesn't collapse into either premature
+closure or ungrounded narrative.
+
+# Conclusion
 
 “Agency Without Permission Slips”
 
@@ -595,7 +589,7 @@ governance must connect consequential judgments to evidence, authority,
 and appeal. Agency remains conditional, but conditional does not mean
 illusory. It means that freedom has an architecture.
 
-## Key Contributions
+## **Key Contributions**
 
 1.  A role vocabulary separating capacity for agency, local authorship,
     constraint context, and formal enablement.

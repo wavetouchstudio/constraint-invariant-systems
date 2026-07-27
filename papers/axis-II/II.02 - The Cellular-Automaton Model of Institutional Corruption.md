@@ -12,12 +12,15 @@ Well-scoped, falsifiable, structural not moral.
 
 “Damage by Spreadsheet Iteration”
 
-This paper models institutional corruption as an emergent property of
-distributed, rule-compliant systems rather than conspiratorial intent or
-individual malfeasance. Locally reasonable actions—such as anomaly
-flagging, scrutiny escalation, and efficiency optimization—interact
-iteratively across institutional boundaries to produce cascading harm
-that no single actor controls.
+Where II.01 traced escalation between signal-dependent agents, this
+paper turns to institutions that need no signal dependency at all to
+cause harm — only faithful rule-following. It models institutional
+corruption as an emergent property of distributed, rule-compliant
+systems rather than conspiratorial intent or individual malfeasance.
+Locally reasonable actions—such as anomaly flagging, scrutiny
+escalation, and efficiency optimization—interact iteratively across
+institutional boundaries to produce cascading harm that no single actor
+controls.
 
 The cellular-automaton framing explains why compliance regimes and
 ethics audits systematically fail to detect these failures and why harm
@@ -162,4 +165,6 @@ This paper models institutional corruption as an emergent property of
 distributed, rule-compliant systems rather than conspiratorial intent or
 individual malfeasance. The contribution of The Cellular-Automaton Model
 of Institutional Corruption is therefore a structured account of its
-governing constraints, mechanisms, and failure conditions.
+governing constraints, mechanisms, and failure conditions. The next
+paper (II.03) looks at what a system does with the productive processes
+it can no longer afford to keep visible.

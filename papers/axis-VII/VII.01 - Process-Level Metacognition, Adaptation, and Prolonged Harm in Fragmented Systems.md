@@ -18,30 +18,32 @@ correction
 
 “Minds That Adapt Too Late”
 
-This paper presents an interpretive systems model of metacognition,
-adaptation, and prolonged harm in fragmented, high-noise environments.
-It treats cognition as predictive and rule-bound: agents act under
-constraints, sample feedback through belief-weighted attention, and
-revise internal models when correction is available and safe. When
-feedback is delayed, opaque, contradictory, or costly to acknowledge,
-prediction mismatch may persist as internal displacement expressed
-through stress, cognitive dissonance, defensive reasoning, or chronic
-dysregulation. The paper proposes—but does not establish—that some forms
-of conscious self-monitoring can be modeled as a late-stage signal of
-unresolved correction. It also describes belief as a control parameter,
-symbolic systems as compression schemes, meta-adaptation as revision of
-the adaptation process itself, and embodiment as a calibration channel.
-Applied to digital environments, the framework predicts that fragmented
-rules and unsafe correction will reduce metacognitive quality and reward
-interpretive buffering. These claims remain hypotheses requiring
-operationalization and comparison with alternative accounts. The model’s
-practical contribution is narrower: safer feedback pathways, embodied
-checks, and process-level coordination may support correction without
-requiring ideological or metaphysical convergence.
+This is the opening paper of Axis VII, and it sets the terms the rest of
+the axis will keep returning to: constraint, feedback, and the cost of
+correcting course once a system—human or institutional—has already
+committed to a direction. This paper presents an interpretive systems
+model of metacognition, adaptation, and prolonged harm in fragmented,
+high-noise environments. It treats cognition as predictive and
+rule-bound: agents act under constraints, sample feedback through
+belief-weighted attention, and revise internal models when correction is
+available and safe. When feedback is delayed, opaque, contradictory, or
+costly to acknowledge, prediction mismatch may persist as internal
+displacement expressed through stress, cognitive dissonance, defensive
+reasoning, or chronic dysregulation. The paper proposes—but does not
+establish—that some forms of conscious self-monitoring can be modeled as
+a late-stage signal of unresolved correction. It also describes belief
+as a control parameter, symbolic systems as compression schemes,
+meta-adaptation as revision of the adaptation process itself, and
+embodiment as a calibration channel. Applied to digital environments,
+the framework predicts that fragmented rules and unsafe correction will
+reduce metacognitive quality and reward interpretive buffering. These
+claims remain hypotheses requiring operationalization and comparison
+with alternative accounts. The model’s practical contribution is
+narrower: safer feedback pathways, embodied checks, and process-level
+coordination may support correction without requiring ideological or
+metaphysical convergence.
 
-# 1. Introduction
-
-“Minds That Adapt Too Late”
+## **1. Introduction**
 
 Human cognition operates under constraints it does not choose, through
 models that remain partial, and with feedback that often arrives late or
@@ -59,7 +61,7 @@ metacognition and prolonged harm. Individual agency remains relevant;
 process conditions influence what agents can detect, tolerate, and
 revise without assigning intention to the system itself.
 
-## 1.1 Contribution and epistemic status
+### **1.1 Contribution and epistemic status**
 
 The paper offers a process-level synthesis rather than new physics, an
 exhaustive theory of consciousness, or a moral hierarchy. It connects
@@ -73,9 +75,7 @@ generator. Its analogies are not evidence, its predictions are not
 findings, and its consciousness account is one possible functional
 interpretation rather than an established scientific result.
 
-# 2. Model Primitives and Definitions
-
-“Minds That Adapt Too Late”
+## **2. Model Primitives and Definitions**
 
 **Agent.** A bounded adaptive system that predicts, acts, receives
 feedback, and updates under physical, social, informational, and
@@ -114,7 +114,7 @@ values, and actions. Internal coherence may improve stability, but it
 does not by itself establish empirical truth, moral goodness, or
 coordination with others.
 
-## 2.1 Constraint layers
+### **2.1 Constraint layers**
 
 The same abstract role—limiting possible transitions—appears at
 different levels and should not be collapsed into one kind of cause.
@@ -132,30 +132,28 @@ Experienced reality is therefore treated as the stable pattern produced
 by constraints interacting with agent behavior, not as a product of
 belief alone.
 
-# 3. The Feedback–Displacement Mechanism
-
-“Minds That Adapt Too Late”
+## **3. The Feedback–Displacement Mechanism**
 
 The model begins with an ordinary adaptive loop and asks what changes
 when correction cannot complete. Its proposed sequence is:
 
-1.  Constraint exposure. The agent encounters a field of physical,
+1.  **Constraint exposure.** The agent encounters a field of physical,
     social, informational, and internal limits.
 
-2.  Prediction and action. The agent selects an action using its current
-    model and belief-weighted sampling priorities.
+2.  **Prediction and action.** The agent selects an action using its
+    current model and belief-weighted sampling priorities.
 
-3.  Feedback return. Consequences arrive with some combination of delay,
-    noise, ambiguity, and social cost.
+3.  **Feedback return.** Consequences arrive with some combination of
+    delay, noise, ambiguity, and social cost.
 
-4.  Mismatch detection. The agent registers divergence between expected
-    and observed states.
+4.  **Mismatch detection.** The agent registers divergence between
+    expected and observed states.
 
-5.  Correction or displacement. When feedback is usable and safe, the
-    model can update; when it is not, mismatch persists as internal
+5.  **Correction or displacement.** When feedback is usable and safe,
+    the model can update; when it is not, mismatch persists as internal
     displacement.
 
-6.  Recursive adaptation. Repeated unresolved mismatch can produce
+6.  **Recursive adaptation.** Repeated unresolved mismatch can produce
     stress, dissonance, defensive cognition, narrative buffering, or
     increased modeling of the agent’s own predictive loop.
 
@@ -165,7 +163,7 @@ available support can alter the outcome. The stronger claim is
 conditional: chronic mismatch is more likely to persist when feedback is
 both low quality and costly to use.
 
-## 3.1 Correction safety
+### **3.1 Correction safety**
 
 **Correction safety.** The degree to which an agent can disclose error,
 test an interpretation, revise a model, or change action without
@@ -178,9 +176,7 @@ model-relevant evidence; the other may first need to regulate the threat
 attached to acknowledging it. The difference need not be dishonesty or
 incapacity. It may reflect the learned cost structure around correction.
 
-# 4. Consciousness as Internalized Displacement
-
-“Minds That Adapt Too Late”
+## **4. Consciousness as Internalized Displacement**
 
 Within this framework, conscious self-monitoring is proposed as the
 internal experience of a rule-bound agent attempting to correct
@@ -213,9 +209,7 @@ These are model predictions, not findings reported by the source. They
 would require operational definitions that separate conscious awareness,
 arousal, rumination, error monitoring, and metacognitive accuracy.
 
-# 5. Belief as a Control Parameter
-
-“Minds That Adapt Too Late”
+## **5. Belief as a Control Parameter**
 
 The model is bidirectional without treating belief as a force that
 alters underlying constraints. Belief changes how an agent samples the
@@ -239,7 +233,7 @@ Belief can influence:
 → experienced feedback → belief updating. The loop is constrained by the
 world but path-dependent through attention and action.
 
-## 5.1 Examples and explanatory limits
+### **5.1 Examples and explanatory limits**
 
 Table 2. Illustrative applications of belief-weighted sampling
 
@@ -254,9 +248,7 @@ Table 2. Illustrative applications of belief-weighted sampling
 Belief therefore steers trajectory within constraints; it is not
 presented as a substitute for those constraints.
 
-# 6. Symbolic, Spiritual, and Cult Systems
-
-“Minds That Adapt Too Late”
+## **6. Symbolic, Spiritual, and Cult Systems**
 
 Symbolic and spiritual systems can function as historical compression
 schemes for delayed feedback, suffering without visible cause, agency
@@ -274,7 +266,7 @@ Table 3. Functional mappings preserved from the source
 | Ritual | Embodied repetition that reinforces constraints and expectations | Functional analogy |
 | Enlightenment | Metacognitive decoupling from previously self-sealing interpretations | Functional analogy |
 
-## 6.1 Interpretive closure
+### **6.1 Interpretive closure**
 
 The model identifies a cult-like closure mechanism when:
 
@@ -289,9 +281,7 @@ These conditions describe a failure of correction architecture. They do
 not support diagnosing a group from disagreement, intensity of
 commitment, or unfamiliar belief content alone.
 
-# 7. Fragmented Digital Systems as Metacognitive Environments
-
-“Minds That Adapt Too Late”
+## **7. Fragmented Digital Systems as Metacognitive Environments**
 
 App-mediated digital environments can combine fragmented rules,
 unpredictable reinforcement, opaque feedback, collapsed context, and
@@ -303,19 +293,20 @@ produces the same effects.
 
 The proposed mechanism is:
 
-1.  Rules vary across platforms, subcultures, interfaces, and moments.
+1.  **Rule fragmentation.** Rules vary across platforms, subcultures,
+    interfaces, and moments.
 
-2.  Feedback is intermittent, selectively visible, and partly generated
-    by systems the user cannot inspect.
+2.  **Opaque feedback.** Feedback is intermittent, selectively visible,
+    and partly generated by systems the user cannot inspect.
 
-3.  Context collapses as statements travel beyond their original
-    audience and temporal setting.
+3.  **Context collapse.** Context collapses as statements travel beyond
+    their original audience and temporal setting.
 
-4.  The agent shortens predictive horizons and relies more heavily on
-    fast, identity-protective heuristics.
+4.  **Horizon shortening.** The agent shortens predictive horizons and
+    relies more heavily on fast, identity-protective heuristics.
 
-5.  Reduced correction quality reinforces defensive cognition and makes
-    later model revision more costly.
+5.  **Compounding defensiveness.** Reduced correction quality reinforces
+    defensive cognition and makes later model revision more costly.
 
 If this account is correct, greater opacity and rule inconsistency
 should be associated with poorer calibration, more defensive reasoning,
@@ -323,9 +314,7 @@ and narrower action horizons, controlling for relevant user and context
 differences. The source does not provide data sufficient to treat these
 associations as established.
 
-# 8. Inverse Alignment and Meta-Adaptation
-
-“Minds That Adapt Too Late”
+## **8. Inverse Alignment and Meta-Adaptation**
 
 When local environments reward incompatible behaviors, some agents may
 stop optimizing for any single rule set and instead revise the process
@@ -351,9 +340,7 @@ rather than exceptionalism. It is expected to emerge where repeated
 local optimization fails and where the agent has enough capacity, time,
 and external grounding to search for transferable rules.
 
-# 9. Embodiment and Triangulation
-
-“Minds That Adapt Too Late”
+## **9. Embodiment and Triangulation**
 
 Conceptual insight alone may be insufficient to stabilize metacognitive
 improvement. The framework proposes triangulation across three channels:
@@ -378,9 +365,7 @@ some embodied settings may reinforce error. The testable issue is the
 quality and independence of the feedback channel, not embodiment as a
 guarantee of truth.
 
-# 10. Epistemic Interference and Inverted Nodes
-
-“Minds That Adapt Too Late”
+## **10. Epistemic Interference and Inverted Nodes**
 
 **Epistemic interference.** Conflict produced when disciplined agents
 use incompatible but internally coherent models and lack a shared
@@ -406,9 +391,7 @@ the conditions under which a claim can be revised. Shared procedure
 cannot guarantee consensus, but it can make disagreement tractable
 without forcing worldview convergence.
 
-# 11. Reverse-Engineered Survival and Interpretive Buffering
-
-“Minds That Adapt Too Late”
+## **11. Reverse-Engineered Survival and Interpretive Buffering**
 
 In environments where transparency is punished, correction is unsafe, or
 error reliably produces disproportionate loss, agents may redirect
@@ -434,9 +417,7 @@ greater expected cost than concealment, buffering should become more
 likely. When errors can be disclosed, bounded, and repaired, explanatory
 creativity can return to model improvement rather than coverup.
 
-# 12. Integrated Dynamics
-
-“Minds That Adapt Too Late”
+## **12. Integrated Dynamics**
 
 The framework compresses its observations into a single conditional
 invariant: delayed or unsafe feedback under constraint can produce
@@ -460,7 +441,7 @@ Table 4. Failure architecture and corrective architecture
 | Calibration | Self-confirming interpretation dominates | Internal, social, and physical checks can disagree productively |
 | Coordination | Belief alignment is demanded | Shared procedures support plural conclusions |
 
-## 12.1 Compression and retrospective obviousness
+### **12.1 Compression and retrospective obviousness**
 
 A framework that compresses familiar observations into one process can
 feel obvious after the organizing perspective is supplied. That response
@@ -470,11 +451,9 @@ implementation: designing timely feedback, safe correction, independent
 calibration, and pluralistic coordination remains difficult even when
 the desired process is easy to state.
 
-# 13. Implications and Applications
+## **13. Implications and Applications**
 
-“Minds That Adapt Too Late”
-
-## 13.1 Individual practice
+### **13.1 Individual practice**
 
 - Separate the content of an error from the anticipated cost of
   acknowledging it.
@@ -488,7 +467,7 @@ the desired process is easy to state.
 - Use disengagement or boundary setting when a setting cannot support
   safe correction.
 
-## 13.2 Platform and institutional design
+### **13.2 Platform and institutional design**
 
 - Make rule changes, enforcement pathways, and consequential feedback
   more legible.
@@ -504,7 +483,7 @@ the desired process is easy to state.
 - Evaluate whether incentives reward explanation and repair or reward
   concealment and narrative management.
 
-## 13.3 Research use
+### **13.3 Research use**
 
 The model can organize research questions without replacing empirical
 science. Useful studies would separately measure feedback delay,
@@ -513,11 +492,9 @@ defensive reasoning, and behavioral calibration. This separation is
 essential because the framework currently links constructs that may
 correlate without sharing one cause.
 
-# 14. Predictions, Scope, and Limits
+## **14. Predictions, Scope, and Limits**
 
-“Minds That Adapt Too Late”
-
-## 14.1 Testable predictions
+### **14.1 Testable predictions**
 
 1.  Higher correction cost will predict more interpretive buffering,
     even when error magnitude is held constant.
@@ -540,7 +517,7 @@ evidence not supplied in the source. Failure of one prediction would
 constrain the relevant mechanism without automatically invalidating
 every other part of the framework.
 
-## 14.2 Scope limits
+### **14.2 Scope limits**
 
 This framework:
 
@@ -566,7 +543,20 @@ It does not:
 - replace empirical research, clinical assessment, or case-specific
   explanation.
 
-# 15. Conclusion
+## **One-Sentence Summary**
+
+Metacognition, on this account, is what a rule-bound agent does when
+ordinary correction has already failed—modeling its own prediction and
+interpretation loops because delayed or unsafe feedback left no faster
+way to close the gap between expectation and outcome. Every later paper
+in this axis returns to some version of that same gap between what a
+system predicts and what it is actually permitted to learn: the next
+paper (VII.02) turns from the internal correction loop modeled here to
+the external structure that either permits or blocks it, treating agency
+itself as a bounded capacity shaped by noise, symbolic capture, and
+design.
+
+# Conclusion
 
 “Minds That Adapt Too Late”
 
@@ -587,7 +577,7 @@ practical and testable: when systems change how error can be detected
 and repaired, agents may change how they model themselves, one another,
 and the environments they inhabit.
 
-## Key Contributions
+## **Key Contributions**
 
 1.  A process-level account connecting constraints, prediction, feedback
     quality, internal displacement, and metacognition.

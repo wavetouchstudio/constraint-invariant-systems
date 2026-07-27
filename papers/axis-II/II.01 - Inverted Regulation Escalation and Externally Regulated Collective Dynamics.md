@@ -12,13 +12,16 @@ Falsifiable behavioral model, careful scope limits.
 
 “Stability That Requires an Audience”
 
-This paper formalizes a recurrent interaction pattern: in some agents,
-non-engagement intensifies rather than extinguishes provocative
-behavior. The inversion occurs when behavioral stability depends on
-externally generated affective feedback rather than internally
-maintained inhibition—for such agents, silence functions as signal
-deprivation, producing destabilization and amplitude escalation until
-external constraint is imposed.
+Axis I named the constraint geometry underneath individual and dyadic
+breakdown; Axis II opens by asking what happens when that same geometry
+runs at the scale of groups and institutions. This paper formalizes a
+recurrent interaction pattern: in some agents, non-engagement
+intensifies rather than extinguishes provocative behavior. The inversion
+occurs when behavioral stability depends on externally generated
+affective feedback rather than internally maintained inhibition—for such
+agents, silence functions as signal deprivation, producing
+destabilization and amplitude escalation until external constraint is
+imposed.
 
 The model is descriptive and bounded: it identifies a specific
 regulatory architecture, defines its control dynamics, specifies
@@ -336,4 +339,7 @@ is regulated primarily by external affective signals rather than
 internally enforced constraints. The contribution of Inverted Regulation
 Escalation and Externally Regulated Collective Dynamics is therefore a
 structured account of its governing constraints, mechanisms, and failure
-conditions.
+conditions. The next paper (II.02) moves from signal-dependent
+escalation to a different institutional failure mode: how compliant,
+rule-following actors iterate their way into large-scale corruption
+without anyone intending it.

@@ -12,19 +12,21 @@ Purely formal, self-contained model.
 
 “Blame Tunnels and Vanishing Feedback”
 
-This paper distills narrative capture and manipulation into a minimal,
+Where VI.01 named the recursive loop that keeps a captured narrative
+from resolving, this paper asks what accumulates while that loop keeps
+running. It distills narrative capture and manipulation into a minimal,
 formal systems model composed of three interacting variables: projection
 tunnels, structural debt, and correction capacity. Projection tunnels
 are internally generated simulation paths that substitute imagination
 for feedback. Structural debt is cumulative constraint added each time
-projection replaces correction. Correction capacity is the system’s
+projection replaces correction. Correction capacity is the system's
 remaining ability to update its model from external signals. The system
 transitions discretely from a feedback-driven regime to a projection
-regime when observable feedback falls below a correction threshold. Once
-this occurs, all new interpretations must respect existing debt,
+regime when observable feedback falls below a correction threshold, and
+once this occurs, all new interpretations must respect existing debt,
 amplifying constraints rather than resolving them. Collapse becomes
 inevitable when the product of active projection tunnels and accumulated
-debt exceeds remaining correction capacity. Crucially, partial
+debt exceeds remaining correction capacity, and crucially, partial
 correction is structurally prohibited once projection dominance is
 established. Escalating self-reference, proliferating narrative
 variants, and semantic inflation are observable precursors—but these are
@@ -34,176 +36,96 @@ is scale-invariant, applying equally to individuals, organizations,
 belief systems, and institutions modeling opaque targets without real
 feedback.
 
-Addendum: Load, Thresholds, and Collapse Conditions
+## Addendum: Load, Thresholds, and Collapse Conditions
 
-Purpose
+This addendum refines the base model without re-describing its
+mechanism: it isolates projection as the sole adaptive operation
+available once feedback is gone, defines the collapse thresholds
+directly, and introduces the minimal notation needed for prediction and
+falsification. No psychological elaboration is added—only structural
+necessity.
 
-This addendum refines the existing model by:
+## Regime Boundary (Formal)
 
-Isolating projection as the sole adaptive operation post-feedback
+A manipulative system operates in one of two regimes: a **feedback
+regime**, in which strategy updates from observed target reactions, or a
+**projection regime**, in which strategy updates from internally
+generated assumptions. The transition between them is discrete, not
+gradual—the projection regime activates once usable feedback falls below
+correction capacity.
 
-Defining collapse thresholds without re-describing the base mechanism
+## Projection Tunnels (Minimal Definition)
 
-Introducing minimal notation sufficient for prediction and falsification
+A **projection tunnel** is a speculative control path constructed
+without external validation, used to simulate target state. It is
+unidirectional, internally load-bearing, and non-corrective. Projection
+tunnels are not errors; they are the only remaining operation once
+feedback is unavailable.
 
-No psychological elaboration is added. Only structural necessity is
-defined.
+## Structural Debt
 
-# 1. Regime Boundary (Formal)
+**Structural debt (S)** is the cumulative constraint imposed by prior
+projection tunnels on future action. Debt is non-erasable without
+admitting model invalidity, each new tunnel must stay consistent with
+prior tunnels, and debt compounds monotonically in the projection
+regime—which is why structural debt explains irreversibility.
 
-“Blame Tunnels and Vanishing Feedback”
+## Correction Capacity
 
-A manipulative system operates in one of two regimes:
+**Correction capacity (C)** is the system's ability to update internal
+models using external information. Under sustained target neutrality, C
+tends toward zero, and projection does not increase it: projection
+exists because C is insufficient, not because of choice.
 
-Feedback Regime: Strategy updated via observed target reactions
+## Collapse Condition
 
-Projection Regime: Strategy updated via internally generated assumptions
+Let P(t) be the number of active projection tunnels, S(t) the
+accumulated structural debt, and C(t) the correction capacity. Collapse
+occurs when:
 
-The transition is discrete, not gradual.
-
-Condition:
-
-Projection Regime activates when usable feedback falls below correction
-capacity.
-
-# 2. Projection Tunnels (Minimal Definition)
-
-“Blame Tunnels and Vanishing Feedback”
-
-Projection Tunnel
-
-A speculative control path constructed without external validation, used
-to simulate target state.
-
-Properties:
-
-Unidirectional
-
-Internally load-bearing
-
-Non-corrective
-
-Projection tunnels are not errors; they are the only remaining operation
-once feedback is unavailable.
-
-# 3. Structural Debt
-
-“Blame Tunnels and Vanishing Feedback”
-
-Structural Debt (S)
-
-The cumulative constraint imposed by prior projection tunnels on future
-action.
-
-Rules:
-
-Debt is non-erasable without admitting model invalidity
-
-Each new tunnel must be consistent with prior tunnels
-
-Debt compounds monotonically in projection regime
-
-Structural debt explains irreversibility.
-
-# 4. Correction Capacity
-
-“Blame Tunnels and Vanishing Feedback”
-
-Correction Capacity (C)
-
-The system’s ability to update internal models using external
-information.
-
-Key constraint:
-
-C → 0 under sustained target neutrality
-
-Projection does not increase C
-
-Projection exists because C is insufficient, not because of choice.
-
-# 5. Collapse Condition
-
-“Blame Tunnels and Vanishing Feedback”
-
-Let:
-
-P(t) = number of active projection tunnels
-
-S(t) = accumulated structural debt
-
-C(t) = correction capacity
-
-Collapse occurs when:
-
-P(t) \times S(t) \> C(t)
+> P(t) × S(t) \> C(t)
 
 Since C(t) asymptotically approaches zero under neutrality, collapse is
 inevitable unless projection ceases entirely.
 
-# 6. Observable Precursors (Minimal)
+## Observable Precursors (Minimal)
 
-“Blame Tunnels and Vanishing Feedback”
+As collapse approaches, systems exhibit increasing self-referential
+language, a decreasing interval between projection variants, escalation
+in attribution depth, and growing reliance on meta-justifications for
+failed predictions—but these are diagnostics, not causes.
 
-As collapse approaches, systems exhibit:
+## Exit Conditions (Strict)
 
-Increasing self-referential language
+A manipulator can exit the projection regime only by one of three
+routes:
 
-Decreasing interval between projection variants
+1.  **Restored external feedback** — the target re-engages.
 
-Escalation in attribution depth
+2.  **Full strategy abandonment** — projection tunnels are discarded
+    wholesale.
 
-Reliance on meta-justifications for failed predictions
-
-These are diagnostics, not causes.
-
-# 7. Exit Conditions (Strict)
-
-“Blame Tunnels and Vanishing Feedback”
-
-A manipulator can exit projection regime only by one of the following:
-
-# 1. Restored external feedback (target re-engages)
-
-“Blame Tunnels and Vanishing Feedback”
-
-# 2. Full strategy abandonment (projection tunnels discarded wholesale)
-
-“Blame Tunnels and Vanishing Feedback”
-
-# 3. External override (authority or constraint not derived from the target)
-
-“Blame Tunnels and Vanishing Feedback”
+3.  **External override** — authority or constraint not derived from the
+    target.
 
 Partial correction is structurally impossible.
 
-# 8. Scalability Note
+## Scalability Note
 
-“Blame Tunnels and Vanishing Feedback”
+The model is scale-invariant: any system that must model an opaque
+target, lacks corrective feedback, and continues acting as if feedback
+exists will exhibit projection tunneling and collapse. This includes
+individuals, groups, and institutions.
 
-The model is scale-invariant.
+**Core Invariant (Restated, Minimal)**
 
-Any system that:
-
-Requires modeling an opaque target
-
-Lacks corrective feedback
-
-Continues acting as if feedback exists
-
-will exhibit projection tunneling and collapse.
-
-This includes individuals, groups, and institutions.
-
-Core Invariant (Restated, Minimal)
-
-\> Projection is the only viable operation after feedback loss—and the
-operation that guarantees collapse.
+> Projection is the only viable operation after feedback loss—and the
+> operation that guarantees collapse.
 
 Or formally:
 
-\> When correction capacity falls to zero, projection load becomes
-self-destructive.
+> When correction capacity falls to zero, projection load becomes
+> self-destructive.
 
 # Conclusion
 
@@ -217,4 +139,7 @@ structured account of its governing constraints, mechanisms, and failure
 conditions. Its claims remain bounded by the evidence and
 counterexamples specified in the paper, and its practical value depends
 on whether the proposed relationships improve explanation, prediction,
-or correction in the relevant domain.
+or correction in the relevant domain. Having formalized when a captured
+narrative collapses, the next paper (VI.03) turns to how coherence
+itself gets sampled and held in place before that collapse point is
+reached.

@@ -18,28 +18,28 @@ theories of consciousness
 
 “Consciousness as the Missing Variable”
 
-This paper develops a theory-agnostic method for studying consciousness
-as a latent variable: an unobserved state inferred from converging
-physiological, neural, behavioral, and first-person indicators. The
-proposal does not treat statistical usefulness as proof of a
-metaphysical entity. Instead, it asks whether a shared latent state
-improves prediction, survives intervention, and transports across
-measurement systems better than models that omit it. The framework
-separates latent dynamics from system-specific observation functions,
-identifies the conditions required to avoid circularity, and shows how
-Global Workspace Theory, Integrated Information Theory, predictive
-processing, and related accounts can be represented as competing
-constraints rather than identity commitments. A second application
-concerns pluralistic meaning coordination. When beliefs are tied to
-identity, theory disputes become socially adversarial even when
-scientific selection can proceed through comparative model performance.
-Latent-variable modeling offers a shared interface through which
-incompatible interpretations can generate commensurable predictions
-without requiring a single worldview.
+Where VII.08 examined self-referential alignment at the level of
+compositional metaphysics, this paper narrows that same question to a
+concrete methodological proposal for consciousness research. It develops
+a theory-agnostic method for studying consciousness as a latent
+variable: an unobserved state inferred from converging physiological,
+neural, behavioral, and first-person indicators. The proposal does not
+treat statistical usefulness as proof of a metaphysical entity. Instead,
+it asks whether a shared latent state improves prediction, survives
+intervention, and transports across measurement systems better than
+models that omit it. The framework separates latent dynamics from
+system-specific observation functions, identifies the conditions
+required to avoid circularity, and shows how Global Workspace Theory,
+Integrated Information Theory, predictive processing, and related
+accounts can be represented as competing constraints rather than
+identity commitments. A second application concerns pluralistic meaning
+coordination. When beliefs are tied to identity, theory disputes become
+socially adversarial even when scientific selection can proceed through
+comparative model performance. Latent-variable modeling offers a shared
+interface through which incompatible interpretations can generate
+commensurable predictions without requiring a single worldview.
 
-# 1. Problem and Scope
-
-“Consciousness as the Missing Variable”
+## 1. Problem and Scope
 
 Consciousness is directly available only from a first-person
 perspective, while scientific inquiry depends on publicly comparable
@@ -64,9 +64,7 @@ explanatory utility within a defined domain; it would not, by itself,
 resolve whether consciousness is fundamental, emergent, computational,
 biological, or metaphysical.
 
-# 2. Core Definitions
-
-“Consciousness as the Missing Variable”
+## 2. Core Definitions
 
 Latent state. An unobserved variable inferred from patterned relations
 among observed variables.
@@ -92,9 +90,7 @@ Identification. The use of anchors, constraints, priors, or
 interventions sufficient to distinguish the model’s parameters and
 scale.
 
-# 3. State-Space Formulation
-
-“Consciousness as the Missing Variable”
+## 3. State-Space Formulation
 
 A minimal formulation separates the evolution of the latent state from
 the production of observable measurements. In discrete time, the
@@ -113,7 +109,7 @@ replace the first equation when temporal resolution and domain knowledge
 warrant them. Hidden Markov models are appropriate when the proposed
 states are categorical or regime-like.
 
-## 3.1 Indicator families
+### 3.1 Indicator families
 
 A defensible model should draw from indicators that fail in different
 ways. Neural measures may be sensitive to instrumentation and
@@ -130,7 +126,7 @@ repeated measurements from a single channel.
 | Neural activity | broadcast, integration, complexity, connectivity | analysis choices, arousal, task demands |
 | Physiology | pupil response, autonomic change, sleep or sedation markers | stress, medication, general activation |
 
-## 3.2 Interventions and conditions
+### 3.2 Interventions and conditions
 
 Meditation, ritual, psychoactive substances, sedation, sleep
 transitions, injury, sensory deprivation, and task load can be
@@ -140,9 +136,7 @@ distinguish rival models. Ethical and legal constraints govern which
 interventions are appropriate; observational variation can be used when
 direct manipulation is unsafe or impossible.
 
-# 4. Avoiding Circularity
-
-“Consciousness as the Missing Variable”
+## 4. Avoiding Circularity
 
 Circularity occurs when consciousness is defined by a single outcome and
 then invoked to explain that same outcome. The latent construction
@@ -168,9 +162,7 @@ each indicator family, and alternative causal structures. If the shared
 latent adds complexity without improving prediction, calibration,
 intervention response, or compression, it has not earned inclusion.
 
-# 5. Cross-System Transportability
-
-“Consciousness as the Missing Variable”
+## 5. Cross-System Transportability
 
 The central transportability hypothesis is that a genuine shared latent
 structure should not need to be reinvented for every measurement system.
@@ -187,9 +179,7 @@ transport is informative: it may indicate that the latent variable is
 too broad, that the indicators measure different constructs, or that the
 dynamics genuinely differ across systems.
 
-# 6. Relation to Existing Theories
-
-“Consciousness as the Missing Variable”
+## 6. Relation to Existing Theories
 
 Global Workspace Theory, Integrated Information Theory,
 recurrent-processing accounts, higher-order theories, and
@@ -213,9 +203,7 @@ selection criteria such as cross-validation, leave-one-out prediction,
 information criteria, calibration, and intervention performance must be
 chosen before inspecting the favored result.
 
-# 7. Meaning Coordination as a Second-Level Application
-
-“Consciousness as the Missing Variable”
+## 7. Meaning Coordination as a Second-Level Application
 
 Disputes about consciousness operate simultaneously at scientific and
 social levels. Scientifically, models compete through explanatory reach,
@@ -233,7 +221,7 @@ polarization, and symbolic conflict. Describing this as a reorganization
 rather than an inevitable collapse is a hypothesis about system
 dynamics, not a guarantee of benign outcomes.
 
-## 7.1 Distinguishing levels
+### 7.1 Distinguishing levels
 
 | Level | Selection pressure | Typical failure |
 |----|----|----|
@@ -241,7 +229,7 @@ dynamics, not a guarantee of benign outcomes.
 | Social | identity, belonging, legitimacy, moral meaning | treating disagreement as existential attack |
 | Meta-coordination | continued communication across incompatible commitments | mistaking coexistence for factual equivalence |
 
-## 7.2 Pluralism without relativism
+### 7.2 Pluralism without relativism
 
 Pluralistic coordination does not require all claims to be equally true.
 It requires a shared procedure for translating claims into definitions,
@@ -258,9 +246,7 @@ boundaries, and protection for dissent. The desired settlement is
 therefore a meta-norm: multiple systems of meaning may coexist while
 factual disagreements remain open to disciplined comparison.
 
-# 8. Research Program and Falsifiable Expectations
-
-“Consciousness as the Missing Variable”
+## 8. Research Program and Falsifiable Expectations
 
 The framework produces a staged research program:
 
@@ -290,18 +276,16 @@ would be graded rather than absolute: replicable predictive gain, stable
 temporal structure, cross-system transport, and successful novel
 intervention predictions.
 
-# 9. Implications
+## 9. Implications
 
-“Consciousness as the Missing Variable”
-
-## 9.1 Scientific practice
+### 9.1 Scientific practice
 
 The model encourages researchers to separate observations from
 ontological conclusions and to make theory comparison explicit. It also
 supports cumulative work: new instruments can be introduced through new
 observation functions without discarding the entire model.
 
-## 9.2 Institutional design
+### 9.2 Institutional design
 
 Institutions coordinating contentious research can distinguish empirical
 standards from worldview membership. Shared repositories, preregistered
@@ -309,16 +293,14 @@ comparisons, adversarial collaboration, and transparent model criticism
 can reduce the incentive to convert methodological disagreement into
 identity conflict.
 
-## 9.3 Individual interpretation
+### 9.3 Individual interpretation
 
 For individuals, the framework offers a disciplined distinction between
 experience, measurement, model, and metaphysical interpretation. This
 distinction permits serious engagement with subjective reports without
 treating every interpretation of those reports as equally supported.
 
-# 10. Limitations
-
-“Consciousness as the Missing Variable”
+## 10. Limitations
 
 Latent variables can create an illusion of explanation when they merely
 rename covariance. Results may depend heavily on indicator selection,
@@ -330,18 +312,12 @@ systems. The meaning-coordination extension is likewise a conceptual
 proposal; it requires evidence before claims about polarization
 reduction or institutional performance can be generalized.
 
-# Relation to the Book Architecture
-
-“Consciousness as the Missing Variable”
+## Relation to the Book Architecture
 
 This paper supplies the latent-variable and theory-comparison method
 used when Axis VIII separates model behavior from claims about machine
-agency. Its pluralism argument also anticipates
-[VIII.6](../axis-VIII/VIII.6%20Authoritarian%20vs.%20Libertarian%20AI%20Regimes%20-%20Constraint%20Topologies%20and%20End-State%20Dynamics.html)’s
-interoperability model. Read next:
-[VIII.1](../axis-VIII/VIII.1%20AI%20Alignment%20Reconsidered%20-%20Abstraction%20Debt%2C%20Constraint%20Coherence%2C%20and%20AI%20as%20an%20Operational%20Refactoring%20Layer.html)
-and
-[VIII.6](../axis-VIII/VIII.6%20Authoritarian%20vs.%20Libertarian%20AI%20Regimes%20-%20Constraint%20Topologies%20and%20End-State%20Dynamics.html).
+agency. Its pluralism argument also anticipates VIII.6’s
+interoperability model. Read next: VIII.1 and VIII.6.
 
 # 11. Conclusion
 

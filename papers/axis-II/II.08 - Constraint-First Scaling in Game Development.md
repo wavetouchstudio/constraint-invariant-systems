@@ -12,12 +12,14 @@ Concrete example, falsifiable predictions.
 
 “Why Bigger Games Collapse Faster”
 
-The video game industry exhibits a structural paradox: technological
-capability continues to expand rapidly, yet delivered quality,
-production efficiency, and player trust have stagnated or
-declined—particularly in AAA development. This paper argues that the
-cause is not insufficient technology, talent, or automation, but a
-failure to redesign constraints across abstraction layers.
+Where II.07 diagnosed non-commuting constraints across technology
+broadly, this paper narrows the same lens to one industry. The video
+game industry exhibits a structural paradox: technological capability
+continues to expand rapidly, yet delivered quality, production
+efficiency, and player trust have stagnated or declined—particularly in
+AAA development. This paper argues that the cause is not insufficient
+technology, talent, or automation, but a failure to redesign constraints
+across abstraction layers.
 
 This analysis extends II.07's formalization of scaling as composition
 across constrained layers: here each layer carries its own constraint
@@ -209,3 +211,6 @@ constraints, mechanisms, and failure conditions. Its claims remain
 bounded by the evidence and counterexamples specified in the paper, and
 its practical value depends on whether the proposed relationships
 improve explanation, prediction, or correction in the relevant domain.
+The next paper (II.09) pulls back out to the largest scale this axis
+covers: capitalism and communism, read as phases of the same
+developmental process rather than opposing ideologies.
