@@ -1,4 +1,4 @@
-﻿# VI.05 - Frame Integrity and Recursive Social Escalation
+﻿# VI.5 -- Frames Colliding at Full Speed
 
 <div class="verdict-block">
 

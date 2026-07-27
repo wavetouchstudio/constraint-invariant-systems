@@ -1,4 +1,4 @@
-﻿# VII.09 - Latent-Variable Consciousness: Pluralistic Meaning Coordination
+﻿# VII.9 -- Consciousness as the Missing Variable
 
 <div class="verdict-block">
 

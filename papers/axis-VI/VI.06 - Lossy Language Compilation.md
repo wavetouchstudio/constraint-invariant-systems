@@ -1,4 +1,4 @@
-﻿# VI.06 - Lossy Language Compilation
+﻿# VI.6 -- What Gets Lost Every Time You Explain Yourself
 
 <div class="verdict-block">
 
@@ -11,6 +11,8 @@ General AI-alignment/linguistics point, reasonably scoped.
 \*How Human Linguistic Compression Generates Second‑Order Harm\*
 
 # Abstract
+
+“What Gets Lost Every Time You Explain Yourself”
 
 Human language is optimized for emotion, social coordination, and
 narrative efficiency, not for formal precision.

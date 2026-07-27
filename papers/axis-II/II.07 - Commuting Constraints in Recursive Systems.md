@@ -1,4 +1,4 @@
-﻿# II.07 - Commuting Constraints in Recursive Systems
+﻿# II.7 -- Stacked Limits and Scaling Illusions
 
 <div class="verdict-block">
 

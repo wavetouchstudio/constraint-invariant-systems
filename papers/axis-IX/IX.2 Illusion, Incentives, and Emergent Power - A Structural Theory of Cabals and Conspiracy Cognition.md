@@ -1,4 +1,4 @@
-﻿# IX.2 Illusion, Incentives, and Emergent Power: A Structural Theory of Cabals and Conspiracy Cognition
+﻿# IX.2 -- Power That Looks Like Air
 
 <div class="verdict-block">
 

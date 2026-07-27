@@ -1,4 +1,4 @@
-﻿# VIII.6 Authoritarian vs. Libertarian AI Regimes: Constraint Topologies and End-State Dynamics
+﻿# VIII.6 -- Who Holds the Kill Switch
 
 <div class="verdict-block">
 

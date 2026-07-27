@@ -1,4 +1,4 @@
-﻿# VIII.3 Inverted Enablement and the Emergence of Algorithmic Coherence
+﻿# VIII.3 -- Power That Moves Without Touching
 
 <div class="verdict-block">
 

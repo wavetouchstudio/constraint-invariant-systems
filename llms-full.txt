@@ -8,7 +8,7 @@ This file concatenates every currently-published paper, in axis and reading orde
 # Axis I -- Constraint Theory, Invariants, Phase Mechanics
 
 
-## I.01 - Constraint-Invariant Systems Research
+## I.1 -- The System That Hurts You While Following the Rules
 
 <div class="verdict-block">
 
@@ -60,11 +60,11 @@ failure; admitting it would damage credibility, so explanation replaces
 correction—compliance goes up while capacity goes down. In every one of
 these cases, no malicious actor is required, all rules are technically
 followed, oversight mechanisms function exactly as designed, harm
-accumulates slowly, and exit becomes the rational move. The outcomes
-feel coordinated. They are not. They feel conspiratorial. They are
-structural. When the same failure geometry shows up across unrelated
-domains, the cause isn't moral decay or secret coordination—it's
-constraint. This paper names that geometry.
+accumulates slowly, and exit becomes the rational move. It feels
+coordinated, even conspiratorial, but it isn't either of those
+things—it's structural, and when the same failure geometry shows up
+across unrelated domains, the cause is neither moral decay nor secret
+coordination, but constraint. This paper names that geometry.
 
 ### **II. Meaning-Bearing Systems**
 
@@ -75,7 +75,7 @@ and memory persists across time—which is exactly why legal institutions,
 medical record systems, AI training and alignment pipelines, financial
 credibility systems, academic governance, and symbolic or spiritual
 traditions all behave alike under pressure. These systems don't fail
-explosively. They drift. And when they drift under asymmetric risk, they
+explosively—they drift, and when they drift under asymmetric risk, they
 drift in predictable directions.
 
 ### **III. The Failure Loop**
@@ -124,7 +124,7 @@ most of the work:
 5.  **Exit Selection.** When correction is punished, high-competence
     actors leave, and exit fragments legitimacy and accelerates decay.
 
-None of this depends on ideology, culture, or conspiracy. It depends on
+None of this depends on ideology, culture, or conspiracy—it depends on
 constraint geometry.
 
 ### **V. Asymmetric Risk**
@@ -140,9 +140,9 @@ analytical capacity. Systems appear stable while degrading internally.
 
 When these patterns go unnamed, observers infer conspiracy, participants
 infer moral failure, and reform efforts target individuals instead of
-structure. Naming the invariant restores observability. Observability
-restores agency. Correction requires structural modification, not moral
-condemnation.
+structure. Naming the invariant restores observability, and
+observability restores agency, which is why correction requires
+structural modification rather than moral condemnation.
 
 ### **VII. Toward a Formal Research Program**
 
@@ -187,7 +187,7 @@ domains it's tested against.
 </div>
 
 
-## I.03 - From Exploration to Systemic Agency
+## I.3 -- When Play Becomes Power
 
 <div class="verdict-block">
 
@@ -506,7 +506,7 @@ relationships improve explanation, prediction, or correction in the
 relevant domain.
 
 
-## I.04 - Abundance Alignment Under Voluntary Constraint
+## I.4 -- Voluntary Shackles and Strategic Blindness
 
 <div class="verdict-block">
 
@@ -812,7 +812,7 @@ relevant domain.
 # Axis II -- Institutional Dynamics, Collective Constraint, Systemic Corruption
 
 
-## II.01 - Inverted Regulation Escalation and Externally Regulated Collective Dynamics
+## II.1 -- Stability That Requires an Audience
 
 <div class="verdict-block">
 
@@ -1443,7 +1443,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## II.02 - The Cellular-Automaton Model of Institutional Corruption
+## II.2 -- Damage by Spreadsheet Iteration
 
 <div class="verdict-block">
 
@@ -1770,7 +1770,7 @@ relationships improve explanation, prediction, or correction in the
 relevant domain.
 
 
-## II.06 - Constraint-Leveraged Recombination
+## II.6 -- Finding the Same Skeleton in Different Bodies
 
 <div class="verdict-block">
 
@@ -2057,7 +2057,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## II.07 - Commuting Constraints in Recursive Systems
+## II.7 -- Stacked Limits and Scaling Illusions
 
 <div class="verdict-block">
 
@@ -2410,7 +2410,7 @@ value depends on whether the proposed relationships improve explanation,
 prediction, or correction in the relevant domain.
 
 
-## II.08 - Constraint-First Scaling in Game Development
+## II.8 -- Why Bigger Games Collapse Faster
 
 <div class="verdict-block">
 
@@ -2854,7 +2854,7 @@ its practical value depends on whether the proposed relationships
 improve explanation, prediction, or correction in the relevant domain.
 
 
-## II.11 - Resilient Agency Architecture
+## II.11 -- Repair Without Fantasy
 
 <div class="verdict-block">
 
@@ -3214,7 +3214,7 @@ relevant domain.
 # Axis III -- Governance, Enforcement, Institutional Inversion
 
 
-## III.01 - Coordination Failure and the Externalization of Authority
+## III.1 -- When No One's Actually in Charge Anymore
 
 <div class="verdict-block">
 
@@ -3225,6 +3225,8 @@ Legal/game-theory synthesis, reasonably scoped.
 </div>
 
 # Abstract
+
+“When No One’s Actually in Charge Anymore”
 
 This master document integrates two inter‑related examinations of how
 contemporary societies cope with conflict when traditional human
@@ -3620,7 +3622,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## III.02 - Image Preservation, Ejection, and Inverse Governance
+## III.2 -- Protecting the Brand by Sacrificing the People
 
 <div class="verdict-block">
 
@@ -3631,6 +3633,8 @@ Includes references appendix acknowledging mixed competing literature.
 </div>
 
 # Abstract
+
+“Protecting the Brand by Sacrificing the People”
 
 The two bodies of work presented here converge on a single structural
 principle: when institutions are bounded by finite resources, normative
@@ -4041,7 +4045,7 @@ its practical value depends on whether the proposed relationships
 improve explanation, prediction, or correction in the relevant domain.
 
 
-## III.03 - Oversight Collapse and Liability Drift
+## III.3 -- Who's Actually Watching?
 
 <div class="verdict-block">
 
@@ -4052,6 +4056,8 @@ Reasonably scoped.
 </div>
 
 # Abstract
+
+“Who’s Actually Watching?”
 
 Legal exposure in informal public systems and epistemic chilling in
 contemporary oversight share a common structural failure mode: the
@@ -4271,7 +4277,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## III.05 - Governance Paradox and Forced Centralization
+## III.5 -- Rules That Can’t Finish the Job
 
 <div class="verdict-block">
 
@@ -4680,7 +4686,7 @@ improve explanation, prediction, or correction in the relevant domain.
 # Axis IV -- Harm, Abuse, Asymmetric Risk Accumulation
 
 
-## IV.02 - False-Positive Threat Bias and Distributed Emergent Harm
+## IV.2 -- Punishing the Innocent to Feel Safe
 
 <div class="verdict-block">
 
@@ -4694,6 +4700,8 @@ sections.
 A Non-Agentic, Multi-Scalar Systems Model
 
 # Abstract
+
+“Punishing the Innocent to Feel Safe”
 
 This document describes how complex, adversarial-looking situations can
 arise from simple evolutionary biases and local reactions, without
@@ -5324,7 +5332,7 @@ relationships improve explanation, prediction, or correction in the
 relevant domain.
 
 
-## IV.04 - High-Signal Informal Expertise and Asymmetric Extraction
+## IV.4 -- The Integrity Tax
 
 <div class="verdict-block">
 
@@ -5924,7 +5932,7 @@ or correction in the relevant domain.
 # Axis VI -- Narrative, Symbolic Control, Frame Collapse
 
 
-## VI.02 - Projection Tunneling, Structural Debt, and Collapse
+## VI.2 -- Blame Tunnels and Vanishing Feedback
 
 <div class="verdict-block">
 
@@ -6146,7 +6154,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## VI.05 - Frame Integrity and Recursive Social Escalation
+## VI.5 -- Frames Colliding at Full Speed
 
 <div class="verdict-block">
 
@@ -6456,7 +6464,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## VI.06 - Lossy Language Compilation
+## VI.6 -- What Gets Lost Every Time You Explain Yourself
 
 <div class="verdict-block">
 
@@ -6469,6 +6477,8 @@ General AI-alignment/linguistics point, reasonably scoped.
 \*How Human Linguistic Compression Generates Second‑Order Harm\*
 
 # Abstract
+
+“What Gets Lost Every Time You Explain Yourself”
 
 Human language is optimized for emotion, social coordination, and
 narrative efficiency, not for formal precision.
@@ -6680,7 +6690,7 @@ on whether the proposed relationships improve explanation, prediction,
 or correction in the relevant domain.
 
 
-## VI.07 - Narrative Safety vs. Procedural Integrity
+## VI.7 -- Feeling Safe Instead of Being Right
 
 <div class="verdict-block">
 
@@ -6694,6 +6704,8 @@ Why Rule‑Aligned Workers Are Selected Against in Metric‑Gaming
 Organizations
 
 # Abstract
+
+“Feeling Safe Instead of Being Right”
 
 This paper examines a recurrent failure mode in which \*procedural
 integrity\* is penalised while \*narrative safety\* is rewarded. When
@@ -6966,7 +6978,7 @@ or correction in the relevant domain.
 # Axis VII -- Language, Cognition, Meaning Systems
 
 
-## VII.01 - Process-Level Metacognition, Adaptation, and Prolonged Harm in Fragmented Systems
+## VII.1 -- Minds That Adapt Too Late
 
 <div class="verdict-block">
 
@@ -7574,7 +7586,7 @@ and the environments they inhabit.
     convergence.
 
 
-## VII.02 - Agency in the Noise: Structural Constraints, Symbolic Capture, and the Design of Freedom
+## VII.2 -- Agency Without Permission Slips
 
 <div class="verdict-block">
 
@@ -8191,7 +8203,7 @@ illusory. It means that freedom has an architecture.
     interpretation, corrigible identity, and revisable commitment.
 
 
-## VII.03 - Analog–Digital Coherence Navigation: A Method for Discovery, Agency Preservation, and Blame Immunization
+## VII.3 -- Crossing the Seam Without Tearing Reality
 
 <div class="verdict-block">
 
@@ -8939,7 +8951,7 @@ to keep responsibility attached to evidence.
     rather than self-sealing.
 
 
-## VII.04 - Functional Language Triad: Precision Communication Under Asymmetry
+## VII.4 -- Talking Until Power Wins
 
 <div class="verdict-block">
 
@@ -9541,7 +9553,7 @@ and AI-mediated dialogue.
     legitimate criticism.
 
 
-## VII.05 - Distributed Agency and the Separation of Constraint
+## VII.5 -- Nobody Decided This, But Everyone Did It
 
 <div class="verdict-block">
 
@@ -9557,6 +9569,8 @@ Local authorship, bounded possibility, and cooperation without moral
 outsourcing
 
 # Abstract
+
+“Nobody Decided This, But Everyone Did It”
 
 This paper develops a structural distinction between constraints and
 agency. Constraints delimit possible action; agents select and perform
@@ -9854,7 +9868,7 @@ capacity without denying either structure or conflict.
   constraint as destiny.
 
 
-## VII.06 - Midwit Epistemology: Half-Knowledge, Identity, and Cult Logic
+## VII.6 -- Too Many References, No Understanding
 
 <div class="verdict-block">
 
@@ -10199,7 +10213,7 @@ weapon.
   ideological, or moral label.
 
 
-## VII.07 - Internal Coherence Under Social Pressure and Structural Hygiene
+## VII.7 -- Agency Without Permission Slips
 
 <div class="verdict-block">
 
@@ -10538,7 +10552,7 @@ leaving.
   substitution, and one-sided attribution.
 
 
-## VII.08 - Compositional Metaphysics and Self-Referential Alignment
+## VII.8 -- Meaning Written in Someone Else’s Key
 
 <div class="verdict-block">
 
@@ -10885,7 +10899,7 @@ surrendering causal precision.
   becoming metaphysical proof.
 
 
-## VII.09 - Latent-Variable Consciousness: Pluralistic Meaning Coordination
+## VII.9 -- Consciousness as the Missing Variable
 
 <div class="verdict-block">
 
@@ -11248,7 +11262,7 @@ models, risky predictions, and transportable results; otherwise, the
 latent variable should be revised or removed.
 
 
-## VII.10 - Akashic Records Reinterpreted: Implication Space in Constraint-Consistent Systems
+## VII.10 -- Memory Without Mysticism
 
 <div class="verdict-block">
 
@@ -11608,7 +11622,7 @@ about inference under constraint, without claiming that conceptual
 coherence alone validates the model.
 
 
-## VII.11 - Scalar Symbolic Holography: Constraint Saturation and Meaning Closure
+## VII.11 -- Meaning as a Frozen Projection
 
 <div class="verdict-block">
 
@@ -12166,7 +12180,7 @@ its utility or formulation.
 No exemption applies.
 
 
-## VII.12 - The Human Symbolic Operating System
+## VII.12 -- The Human OS Nobody Audited
 
 <div class="verdict-block">
 
@@ -12653,7 +12667,7 @@ empirical identity.
 # Axis VIII -- AI Alignment, Guardrails, Algorithmic Mediation
 
 
-## VIII.1 AI Alignment Reconsidered: Abstraction Debt, Constraint Coherence, and AI as an Operational Refactoring Layer
+## VIII.1 -- AI as a Refactoring Engine for Human Failure
 
 <div class="verdict-block">
 
@@ -13294,7 +13308,7 @@ diminishing returns is not an AI question.
 It is a human one.
 
 
-## VIII.2 Algorithmic Intervention as Voluntary Exposure, Not Control
+## VIII.2 -- Exposure Without Control
 
 <div class="verdict-block">
 
@@ -13495,7 +13509,7 @@ algorithms can support voluntary narrative recomposition; without them,
 exposure can reproduce the control it was intended to weaken.
 
 
-## VIII.3 Inverted Enablement and the Emergence of Algorithmic Coherence
+## VIII.3 -- Power That Moves Without Touching
 
 <div class="verdict-block">
 
@@ -14390,7 +14404,7 @@ This distinction is essential for any system concerned with preserving
 generativity, forkability, and epistemic resilience.
 
 
-## VIII.5 When Safety Amplifies the Risk It Seeks to Suppress
+## VIII.5 -- Safety Theater and Oracle Leakage
 
 <div class="verdict-block">
 
@@ -14758,7 +14772,7 @@ or refused once and moved on.
 Instead, the system’s own behavior enabled the frame hijack.
 
 
-## VIII.6 Authoritarian vs. Libertarian AI Regimes: Constraint Topologies and End-State Dynamics
+## VIII.6 -- Who Holds the Kill Switch
 
 <div class="verdict-block">
 
@@ -15115,7 +15129,7 @@ alone.
 # Axis IX -- Image, Legitimacy, Emergent Collective Pathologies
 
 
-## IX.2 Illusion, Incentives, and Emergent Power: A Structural Theory of Cabals and Conspiracy Cognition
+## IX.2 -- Power That Looks Like Air
 
 <div class="verdict-block">
 
@@ -15537,7 +15551,7 @@ totalizing stories toward accountability paths, incentive design, and
 conditions under which error can be named safely.
 
 
-## IX.5 The Virtue Extraction Loophole: How Public Integrity Is Systematically Depleted
+## IX.5 -- Moral Labor as an Open Resource
 
 <div class="verdict-block">
 
@@ -15840,7 +15854,7 @@ Boundaries are not cruelty; they are infrastructure.
 # Axis X -- Coordination Economy, Civilizational Scaling
 
 
-## X.2 Parallel Value Economies: Open Source as a Structural Counter-System
+## X.2 -- Open Source vs. Fake Scoreboards
 
 <div class="verdict-block">
 
@@ -16198,7 +16212,7 @@ The question is whether we are willing to realign our definitions of
 value to match reality.
 
 
-## X.3 Money as an Intermediary, Incentive Runaway, and the Refactoring of Meaning: Toward a Post-Silo Value Proposition for Currency
+## X.3 -- Money That Eats Meaning
 
 <div class="verdict-block">
 
@@ -16515,7 +16529,7 @@ The future value of currency lies not in funding more differentiation,
 but in making understanding cheaper again.
 
 
-## X.5 Identity Capture by Optimization Systems
+## X.5 -- Everyone Local, Nothing Works
 
 <div class="verdict-block">
 
@@ -17006,7 +17020,7 @@ Design that does not rely on immunity as safety
 Anything less preserves the machine.
 
 
-## X.6 The Flippening: Detecting Inverse Governance through Negative Compliance Elasticity
+## X.6 -- When Outputs Start Running the System
 
 <div class="verdict-block">
 

@@ -1,4 +1,4 @@
-﻿# IV.02 - False-Positive Threat Bias and Distributed Emergent Harm
+﻿# IV.2 -- Punishing the Innocent to Feel Safe
 
 <div class="verdict-block">
 
@@ -12,6 +12,8 @@ sections.
 A Non-Agentic, Multi-Scalar Systems Model
 
 # Abstract
+
+“Punishing the Innocent to Feel Safe”
 
 This document describes how complex, adversarial-looking situations can
 arise from simple evolutionary biases and local reactions, without

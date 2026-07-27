@@ -1,4 +1,4 @@
-﻿# III.05 - Governance Paradox and Forced Centralization
+﻿# III.5 -- Rules That Can’t Finish the Job
 
 <div class="verdict-block">
 

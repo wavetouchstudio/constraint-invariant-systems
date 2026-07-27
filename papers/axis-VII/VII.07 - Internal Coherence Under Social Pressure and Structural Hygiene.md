@@ -1,4 +1,4 @@
-﻿# VII.07 - Internal Coherence Under Social Pressure and Structural Hygiene
+﻿# VII.7 -- Agency Without Permission Slips
 
 <div class="verdict-block">
 

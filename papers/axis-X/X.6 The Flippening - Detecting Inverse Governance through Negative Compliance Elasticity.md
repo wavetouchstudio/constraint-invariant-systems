@@ -1,4 +1,4 @@
-﻿# X.6 The Flippening: Detecting Inverse Governance through Negative Compliance Elasticity
+﻿# X.6 -- When Outputs Start Running the System
 
 <div class="verdict-block">
 

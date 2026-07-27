@@ -1,4 +1,4 @@
-﻿# X.3 Money as an Intermediary, Incentive Runaway, and the Refactoring of Meaning: Toward a Post-Silo Value Proposition for Currency
+﻿# X.3 -- Money That Eats Meaning
 
 <div class="verdict-block">
 

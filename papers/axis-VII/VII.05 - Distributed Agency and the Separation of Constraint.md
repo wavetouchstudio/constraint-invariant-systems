@@ -1,4 +1,4 @@
-﻿# VII.05 - Distributed Agency and the Separation of Constraint
+﻿# VII.5 -- Nobody Decided This, But Everyone Did It
 
 <div class="verdict-block">
 
@@ -14,6 +14,8 @@ Local authorship, bounded possibility, and cooperation without moral
 outsourcing
 
 # Abstract
+
+“Nobody Decided This, But Everyone Did It”
 
 This paper develops a structural distinction between constraints and
 agency. Constraints delimit possible action; agents select and perform

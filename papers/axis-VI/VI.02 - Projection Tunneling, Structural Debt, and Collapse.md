@@ -1,4 +1,4 @@
-﻿# VI.02 - Projection Tunneling, Structural Debt, and Collapse
+﻿# VI.2 -- Blame Tunnels and Vanishing Feedback
 
 <div class="verdict-block">
 

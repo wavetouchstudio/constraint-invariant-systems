@@ -1,4 +1,4 @@
-﻿# II.11 - Resilient Agency Architecture
+﻿# II.11 -- Repair Without Fantasy
 
 <div class="verdict-block">
 

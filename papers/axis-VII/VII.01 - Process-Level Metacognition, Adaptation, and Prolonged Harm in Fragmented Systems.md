@@ -1,4 +1,4 @@
-﻿# VII.01 - Process-Level Metacognition, Adaptation, and Prolonged Harm in Fragmented Systems
+﻿# VII.1 -- Minds That Adapt Too Late
 
 <div class="verdict-block">
 

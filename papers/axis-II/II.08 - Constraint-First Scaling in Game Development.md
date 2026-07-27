@@ -1,4 +1,4 @@
-﻿# II.08 - Constraint-First Scaling in Game Development
+﻿# II.8 -- Why Bigger Games Collapse Faster
 
 <div class="verdict-block">
 

@@ -1,4 +1,4 @@
-﻿# I.04 - Abundance Alignment Under Voluntary Constraint
+﻿# I.4 -- Voluntary Shackles and Strategic Blindness
 
 <div class="verdict-block">
 

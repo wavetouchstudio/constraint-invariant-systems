@@ -1,4 +1,4 @@
-﻿# VII.03 - Analog–Digital Coherence Navigation: A Method for Discovery, Agency Preservation, and Blame Immunization
+﻿# VII.3 -- Crossing the Seam Without Tearing Reality
 
 <div class="verdict-block">
 

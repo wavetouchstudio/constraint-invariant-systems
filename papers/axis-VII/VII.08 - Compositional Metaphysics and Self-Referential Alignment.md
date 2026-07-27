@@ -1,4 +1,4 @@
-﻿# VII.08 - Compositional Metaphysics and Self-Referential Alignment
+﻿# VII.8 -- Meaning Written in Someone Else’s Key
 
 <div class="verdict-block">
 

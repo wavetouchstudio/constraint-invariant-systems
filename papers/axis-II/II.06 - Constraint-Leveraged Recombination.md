@@ -1,4 +1,4 @@
-﻿# II.06 - Constraint-Leveraged Recombination
+﻿# II.6 -- Finding the Same Skeleton in Different Bodies
 
 <div class="verdict-block">
 

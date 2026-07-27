@@ -1,4 +1,4 @@
-﻿# III.01 - Coordination Failure and the Externalization of Authority
+﻿# III.1 -- When No One's Actually in Charge Anymore
 
 <div class="verdict-block">
 
@@ -9,6 +9,8 @@ Legal/game-theory synthesis, reasonably scoped.
 </div>
 
 # Abstract
+
+“When No One’s Actually in Charge Anymore”
 
 This master document integrates two inter‑related examinations of how
 contemporary societies cope with conflict when traditional human

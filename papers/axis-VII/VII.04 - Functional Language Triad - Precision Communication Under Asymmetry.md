@@ -1,4 +1,4 @@
-﻿# VII.04 - Functional Language Triad: Precision Communication Under Asymmetry
+﻿# VII.4 -- Talking Until Power Wins
 
 <div class="verdict-block">
 

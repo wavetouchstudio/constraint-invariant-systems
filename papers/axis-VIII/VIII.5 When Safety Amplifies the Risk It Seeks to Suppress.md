@@ -1,4 +1,4 @@
-﻿# VIII.5 When Safety Amplifies the Risk It Seeks to Suppress
+﻿# VIII.5 -- Safety Theater and Oracle Leakage
 
 <div class="verdict-block">
 

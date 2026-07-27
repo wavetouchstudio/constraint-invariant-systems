@@ -1,4 +1,4 @@
-﻿# II.02 - The Cellular-Automaton Model of Institutional Corruption
+﻿# II.2 -- Damage by Spreadsheet Iteration
 
 <div class="verdict-block">
 

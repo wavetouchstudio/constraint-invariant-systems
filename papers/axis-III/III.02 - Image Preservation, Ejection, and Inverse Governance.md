@@ -1,4 +1,4 @@
-﻿# III.02 - Image Preservation, Ejection, and Inverse Governance
+﻿# III.2 -- Protecting the Brand by Sacrificing the People
 
 <div class="verdict-block">
 
@@ -9,6 +9,8 @@ Includes references appendix acknowledging mixed competing literature.
 </div>
 
 # Abstract
+
+“Protecting the Brand by Sacrificing the People”
 
 The two bodies of work presented here converge on a single structural
 principle: when institutions are bounded by finite resources, normative

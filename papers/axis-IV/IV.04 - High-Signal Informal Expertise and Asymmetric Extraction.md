@@ -1,4 +1,4 @@
-﻿# IV.04 - High-Signal Informal Expertise and Asymmetric Extraction
+﻿# IV.4 -- The Integrity Tax
 
 <div class="verdict-block">
 

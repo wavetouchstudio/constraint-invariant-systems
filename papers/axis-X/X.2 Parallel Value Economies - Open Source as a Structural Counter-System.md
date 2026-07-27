@@ -1,4 +1,4 @@
-﻿# X.2 Parallel Value Economies: Open Source as a Structural Counter-System
+﻿# X.2 -- Open Source vs. Fake Scoreboards
 
 <div class="verdict-block">
 

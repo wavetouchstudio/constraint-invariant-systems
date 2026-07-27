@@ -1,4 +1,4 @@
-﻿# VI.07 - Narrative Safety vs. Procedural Integrity
+﻿# VI.7 -- Feeling Safe Instead of Being Right
 
 <div class="verdict-block">
 
@@ -12,6 +12,8 @@ Why Rule‑Aligned Workers Are Selected Against in Metric‑Gaming
 Organizations
 
 # Abstract
+
+“Feeling Safe Instead of Being Right”
 
 This paper examines a recurrent failure mode in which \*procedural
 integrity\* is penalised while \*narrative safety\* is rewarded. When

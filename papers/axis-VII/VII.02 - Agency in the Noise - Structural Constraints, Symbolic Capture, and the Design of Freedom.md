@@ -1,4 +1,4 @@
-﻿# VII.02 - Agency in the Noise: Structural Constraints, Symbolic Capture, and the Design of Freedom
+﻿# VII.2 -- Agency Without Permission Slips
 
 <div class="verdict-block">
 

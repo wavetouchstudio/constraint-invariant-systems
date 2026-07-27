@@ -1,4 +1,4 @@
-﻿# VII.11 - Scalar Symbolic Holography: Constraint Saturation and Meaning Closure
+﻿# VII.11 -- Meaning as a Frozen Projection
 
 <div class="verdict-block">
 

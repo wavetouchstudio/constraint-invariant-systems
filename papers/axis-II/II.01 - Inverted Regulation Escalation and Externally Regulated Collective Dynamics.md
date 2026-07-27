@@ -1,4 +1,4 @@
-﻿# II.01 - Inverted Regulation Escalation and Externally Regulated Collective Dynamics
+﻿# II.1 -- Stability That Requires an Audience
 
 <div class="verdict-block">
 

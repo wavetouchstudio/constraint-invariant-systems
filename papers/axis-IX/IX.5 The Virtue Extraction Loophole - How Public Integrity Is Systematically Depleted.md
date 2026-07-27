@@ -1,4 +1,4 @@
-﻿# IX.5 The Virtue Extraction Loophole: How Public Integrity Is Systematically Depleted
+﻿# IX.5 -- Moral Labor as an Open Resource
 
 <div class="verdict-block">
 

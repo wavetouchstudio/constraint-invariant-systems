@@ -1,4 +1,4 @@
-﻿# III.03 - Oversight Collapse and Liability Drift
+﻿# III.3 -- Who's Actually Watching?
 
 <div class="verdict-block">
 
@@ -9,6 +9,8 @@ Reasonably scoped.
 </div>
 
 # Abstract
+
+“Who’s Actually Watching?”
 
 Legal exposure in informal public systems and epistemic chilling in
 contemporary oversight share a common structural failure mode: the

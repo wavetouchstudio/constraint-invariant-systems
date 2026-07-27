@@ -1,4 +1,4 @@
-﻿# VIII.1 AI Alignment Reconsidered: Abstraction Debt, Constraint Coherence, and AI as an Operational Refactoring Layer
+﻿# VIII.1 -- AI as a Refactoring Engine for Human Failure
 
 <div class="verdict-block">
 

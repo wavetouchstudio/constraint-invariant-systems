@@ -1,4 +1,4 @@
-﻿# VII.06 - Midwit Epistemology: Half-Knowledge, Identity, and Cult Logic
+﻿# VII.6 -- Too Many References, No Understanding
 
 <div class="verdict-block">
 

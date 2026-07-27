@@ -1,4 +1,4 @@
-﻿# VII.12 - The Human Symbolic Operating System
+﻿# VII.12 -- The Human OS Nobody Audited
 
 <div class="verdict-block">
 

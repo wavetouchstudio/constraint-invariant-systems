@@ -1,4 +1,4 @@
-﻿# I.01 - Constraint-Invariant Systems Research
+﻿# I.1 -- The System That Hurts You While Following the Rules
 
 <div class="verdict-block">
 
@@ -50,11 +50,11 @@ failure; admitting it would damage credibility, so explanation replaces
 correction—compliance goes up while capacity goes down. In every one of
 these cases, no malicious actor is required, all rules are technically
 followed, oversight mechanisms function exactly as designed, harm
-accumulates slowly, and exit becomes the rational move. The outcomes
-feel coordinated. They are not. They feel conspiratorial. They are
-structural. When the same failure geometry shows up across unrelated
-domains, the cause isn't moral decay or secret coordination—it's
-constraint. This paper names that geometry.
+accumulates slowly, and exit becomes the rational move. It feels
+coordinated, even conspiratorial, but it isn't either of those
+things—it's structural, and when the same failure geometry shows up
+across unrelated domains, the cause is neither moral decay nor secret
+coordination, but constraint. This paper names that geometry.
 
 ### **II. Meaning-Bearing Systems**
 
@@ -65,7 +65,7 @@ and memory persists across time—which is exactly why legal institutions,
 medical record systems, AI training and alignment pipelines, financial
 credibility systems, academic governance, and symbolic or spiritual
 traditions all behave alike under pressure. These systems don't fail
-explosively. They drift. And when they drift under asymmetric risk, they
+explosively—they drift, and when they drift under asymmetric risk, they
 drift in predictable directions.
 
 ### **III. The Failure Loop**
@@ -114,7 +114,7 @@ most of the work:
 5.  **Exit Selection.** When correction is punished, high-competence
     actors leave, and exit fragments legitimacy and accelerates decay.
 
-None of this depends on ideology, culture, or conspiracy. It depends on
+None of this depends on ideology, culture, or conspiracy—it depends on
 constraint geometry.
 
 ### **V. Asymmetric Risk**
@@ -130,9 +130,9 @@ analytical capacity. Systems appear stable while degrading internally.
 
 When these patterns go unnamed, observers infer conspiracy, participants
 infer moral failure, and reform efforts target individuals instead of
-structure. Naming the invariant restores observability. Observability
-restores agency. Correction requires structural modification, not moral
-condemnation.
+structure. Naming the invariant restores observability, and
+observability restores agency, which is why correction requires
+structural modification rather than moral condemnation.
 
 ### **VII. Toward a Formal Research Program**
 

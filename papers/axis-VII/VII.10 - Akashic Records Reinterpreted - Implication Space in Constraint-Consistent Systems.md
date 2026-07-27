@@ -1,4 +1,4 @@
-﻿# VII.10 - Akashic Records Reinterpreted: Implication Space in Constraint-Consistent Systems
+﻿# VII.10 -- Memory Without Mysticism
 
 <div class="verdict-block">
 

@@ -1,4 +1,4 @@
-﻿# I.03 - From Exploration to Systemic Agency
+﻿# I.3 -- When Play Becomes Power
 
 <div class="verdict-block">
 

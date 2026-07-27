@@ -1,4 +1,4 @@
-﻿# VIII.2 Algorithmic Intervention as Voluntary Exposure, Not Control
+﻿# VIII.2 -- Exposure Without Control
 
 <div class="verdict-block">
 
